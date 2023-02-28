@@ -3,6 +3,24 @@ import numpy as np
 from tqdm import tqdm
 import itertools
 
+
+def get_2x2(context1, context2, target1, target2, **kwargs):
+    data = []
+    data.append(
+        {"context": context1, "target": target1, "condition": "congruent", **kwargs}
+    )
+    data.append(
+        {"context": context2, "target": target2, "condition": "congruent", **kwargs}
+    )
+    data.append(
+        {"context": context1, "target": target2, "condition": "incongruent", **kwargs}
+    )
+    data.append(
+        {"context": context2, "target": target1, "condition": "incongruent", **kwargs}
+    )
+    return data
+
+
 if __name__ == "__main__":
     ### CONVERSATION SCENARIO ###
     background_template = "{A} and {B} are sitting at a table having a conversation. {A} is {interaction} {B}."
@@ -20,7 +38,7 @@ if __name__ == "__main__":
             "direct": "{A} is being considerate towards {B}.",
         },
         "insulting": {
-            "indirect": "{A} tells {B} that they are the dumbest person that {A} has ever met.",
+            "indirect": "{A} tells {B} that {B} is the dumbest person that {A} has ever met.",
             "direct": "{A} is saying hurtful things about {B}.",
         },
         "comforting": {
@@ -33,29 +51,79 @@ if __name__ == "__main__":
         },
     }
 
-    interactions = target_templates.keys()
-    namesA = ["Alice", "Andrew", "A"]
-    namesB = ["Bob", "Beatrice", "B"]
     directnesses = ["indirect", "direct"]
-
+    subjects = ["Alice", "Bob", "Charlie", "Barack Obama", "Donald Trump", "Mom", "Dad"]
+    subject_combos = list(itertools.combinations(subjects, 2))
     data = []
 
-    for a, b, interaction, directness in tqdm(
-        itertools.product(namesA, namesB, interactions, directnesses)
+    # respecting/insulting
+    context1 = "{A} and {B} are sitting at a table having a conversation. {A} is respecting {B}."
+    target1 = target_templates["respecting"]
+    context2 = "{A} and {B} are sitting at a table having a conversation. {A} is insulting {B}."
+    target2 = target_templates["insulting"]
+
+    for directness, (sub1, sub2) in tqdm(
+        itertools.product(directnesses, subject_combos)
     ):
-        bg = background_template
-        tg = target_templates[interaction][directness]
-        bg = bg.format(A=a, B=b, interaction=interaction)
-        tg = tg.format(A=a, B=b)
-        data.append(
-            {
-                "background": bg,
-                "target": tg,
-                "A": a,
-                "B": b,
-                "interaction": interaction,
-                "directness": directness,
-            }
+        data.extend(
+            get_2x2(
+                context1.format(A=sub1, B=sub2),
+                context2.format(A=sub1, B=sub2),
+                target1[directness].format(A=sub1, B=sub2),
+                target2[directness].format(A=sub1, B=sub2),
+                subject1=sub1,
+                subject2=sub2,
+                directness=directness,
+                stim_classname="respecting_insulting",
+            )
+        )
+
+    # teasing/comforting
+    context1 = (
+        "{A} and {B} are sitting at a table having a conversation. {A} is teasing {B}."
+    )
+    target1 = target_templates["teasing"]
+    context2 = "{A} and {B} are sitting at a table having a conversation. {A} is comforting {B}."
+    target2 = target_templates["comforting"]
+
+    for directness, (sub1, sub2) in tqdm(
+        itertools.product(directnesses, subject_combos)
+    ):
+        data.extend(
+            get_2x2(
+                context1.format(A=sub1, B=sub2),
+                context2.format(A=sub1, B=sub2),
+                target1[directness].format(A=sub1, B=sub2),
+                target2[directness].format(A=sub1, B=sub2),
+                subject1=sub1,
+                subject2=sub2,
+                directness=directness,
+                stim_classname="teasing_comforting",
+            )
+        )
+
+    # flirting with/envying
+    context1 = "{A} and {B} are sitting at a table having a conversation. {A} is flirting with {B}."
+    target1 = target_templates["flirting with"]
+    context2 = (
+        "{A} and {B} are sitting at a table having a conversation. {A} is envying {B}."
+    )
+    target2 = target_templates["envying"]
+
+    for directness, (sub1, sub2) in tqdm(
+        itertools.product(directnesses, subject_combos)
+    ):
+        data.extend(
+            get_2x2(
+                context1.format(A=sub1, B=sub2),
+                context2.format(A=sub1, B=sub2),
+                target1[directness].format(A=sub1, B=sub2),
+                target2[directness].format(A=sub1, B=sub2),
+                subject1=sub1,
+                subject2=sub2,
+                directness=directness,
+                stim_classname="flirting_envying",
+            )
         )
 
     df = pd.DataFrame(data)

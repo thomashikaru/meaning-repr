@@ -3,6 +3,24 @@ import numpy as np
 from tqdm import tqdm
 import itertools
 
+
+def get_2x2(context1, context2, target1, target2, **kwargs):
+    data = []
+    data.append(
+        {"context": context1, "target": target1, "condition": "congruent", **kwargs}
+    )
+    data.append(
+        {"context": context2, "target": target2, "condition": "congruent", **kwargs}
+    )
+    data.append(
+        {"context": context1, "target": target2, "condition": "incongruent", **kwargs}
+    )
+    data.append(
+        {"context": context2, "target": target1, "condition": "incongruent", **kwargs}
+    )
+    return data
+
+
 if __name__ == "__main__":
     ### GAME SCENARIO ###
     background_template = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is {interaction} {B} in this game."
@@ -53,31 +71,116 @@ if __name__ == "__main__":
         },
     }
 
-    items = ["obstacles", "blocks", "daxes"]
-    interactions = target_templates.keys()
-    namesA = ["Alice", "Andrew", "A"]
-    namesB = ["Bob", "Beatrice", "B"]
     directnesses = ["indirect", "direct"]
 
     data = []
 
-    for a, b, item, interaction, directness in tqdm(
-        itertools.product(namesA, namesB, items, interactions, directnesses)
+    # helping/hindering
+    context1 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is helping {B} in this game."
+    target1 = target_templates["helping"]
+    context2 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is hindering {B} in this game."
+    target2 = target_templates["hindering"]
+
+    subjects = ["Alice", "Bob", "Charlie", "Barack Obama", "Donald Trump", "Mom", "Dad"]
+    objects = ["obstacles", "objects", "blocks", "cubes", "spikes", "daxes", "blickets"]
+    subject_combos = itertools.combinations(subjects, 2)
+
+    for directness, (sub1, sub2), object in tqdm(
+        itertools.product(directnesses, subject_combos, objects)
     ):
-        bg = background_template
-        tg = target_templates[interaction][directness]
-        bg = bg.format(A=a, B=b, items=item, interaction=interaction)
-        tg = tg.format(A=a, B=b, items=item)
-        data.append(
-            {
-                "background": bg,
-                "target": tg,
-                "A": a,
-                "B": b,
-                "interaction": interaction,
-                "item": item,
-                "directness": directness,
-            }
+        data.extend(
+            get_2x2(
+                context1.format(A=sub1, B=sub2, items=object),
+                context2.format(A=sub1, B=sub2, items=object),
+                target1[directness].format(A=sub1, B=sub2, items=object),
+                target2[directness].format(A=sub1, B=sub2, items=object),
+                subject1=sub1,
+                subject2=sub2,
+                object1=object,
+                directness=directness,
+                stim_classname="helping_hindering",
+            )
+        )
+
+    # cooperating with/competing with
+    context1 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is cooperating with {B} in this game."
+    target1 = target_templates["cooperating with"]
+    context2 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is competing with {B} in this game."
+    target2 = target_templates["competing with"]
+
+    subjects = ["Alice", "Bob", "Charlie", "Barack Obama", "Donald Trump", "Mom", "Dad"]
+    objects = ["obstacles", "objects", "blocks", "cubes", "spikes", "daxes", "blickets"]
+    subject_combos = itertools.combinations(subjects, 2)
+
+    for directness, (sub1, sub2), object in tqdm(
+        itertools.product(directnesses, subject_combos, objects)
+    ):
+        data.extend(
+            get_2x2(
+                context1.format(A=sub1, B=sub2, items=object),
+                context2.format(A=sub1, B=sub2, items=object),
+                target1[directness].format(A=sub1, B=sub2, items=object),
+                target2[directness].format(A=sub1, B=sub2, items=object),
+                subject1=sub1,
+                subject2=sub2,
+                object1=object,
+                directness=directness,
+                stim_classname="cooperating_competing",
+            )
+        )
+
+    # evading/chasing
+    context1 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is evading {B} in this game."
+    target1 = target_templates["evading"]
+    context2 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is chasing {B} in this game."
+    target2 = target_templates["chasing"]
+
+    subjects = ["Alice", "Bob", "Charlie", "Barack Obama", "Donald Trump", "Mom", "Dad"]
+    objects = ["obstacles", "objects", "blocks", "cubes", "spikes", "daxes", "blickets"]
+    subject_combos = itertools.combinations(subjects, 2)
+
+    for directness, (sub1, sub2), object in tqdm(
+        itertools.product(directnesses, subject_combos, objects)
+    ):
+        data.extend(
+            get_2x2(
+                context1.format(A=sub1, B=sub2, items=object),
+                context2.format(A=sub1, B=sub2, items=object),
+                target1[directness].format(A=sub1, B=sub2, items=object),
+                target2[directness].format(A=sub1, B=sub2, items=object),
+                subject1=sub1,
+                subject2=sub2,
+                object1=object,
+                directness=directness,
+                stim_classname="evading_chasing",
+            )
+        )
+
+    # learning from/teaching
+    context1 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is learning from {B} in this game."
+    target1 = target_templates["learning from"]
+    context2 = "{A} and {B} are playing a game which requires them to score a goal while avoiding {items}. {A} is teaching {B} in this game."
+    target2 = target_templates["teaching"]
+
+    subjects = ["Alice", "Bob", "Charlie", "Barack Obama", "Donald Trump", "Mom", "Dad"]
+    objects = ["obstacles", "objects", "blocks", "cubes", "spikes", "daxes", "blickets"]
+    subject_combos = itertools.combinations(subjects, 2)
+
+    for directness, (sub1, sub2), object in tqdm(
+        itertools.product(directnesses, subject_combos, objects)
+    ):
+        data.extend(
+            get_2x2(
+                context1.format(A=sub1, B=sub2, items=object),
+                context2.format(A=sub1, B=sub2, items=object),
+                target1[directness].format(A=sub1, B=sub2, items=object),
+                target2[directness].format(A=sub1, B=sub2, items=object),
+                subject1=sub1,
+                subject2=sub2,
+                object1=object,
+                directness=directness,
+                stim_classname="learning_teaching",
+            )
         )
 
     df = pd.DataFrame(data)

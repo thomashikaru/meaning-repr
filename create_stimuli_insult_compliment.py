@@ -3,6 +3,24 @@ import numpy as np
 from tqdm import tqdm
 import itertools
 
+
+def get_2x2(context1, context2, target1, target2, **kwargs):
+    data = []
+    data.append(
+        {"context": context1, "target": target1, "condition": "congruent", **kwargs}
+    )
+    data.append(
+        {"context": context2, "target": target2, "condition": "congruent", **kwargs}
+    )
+    data.append(
+        {"context": context1, "target": target2, "condition": "incongruent", **kwargs}
+    )
+    data.append(
+        {"context": context2, "target": target1, "condition": "incongruent", **kwargs}
+    )
+    return data
+
+
 if __name__ == "__main__":
     ### INSULTS/COMPLIMENTS ###
     background_template = "{A} is talking about their {third_party} with {B}. {B} knows that {A}'s {third_party} {context}. {B} tells {A} 'You're just like your {third_party}'."

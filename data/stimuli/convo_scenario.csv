@@ -1,109 +1,505 @@
-background,target,A,B,interaction,directness
-Alice and Bob are sitting at a table having a conversation. Alice is teasing Bob.,Alice is playfully mentioning an embarrassing thing that Bob did.,Alice,Bob,teasing,indirect
-Alice and Bob are sitting at a table having a conversation. Alice is teasing Bob.,Alice is making light-hearted jokes at Bob’s expense.,Alice,Bob,teasing,direct
-Alice and Bob are sitting at a table having a conversation. Alice is flirting with Bob.,Alice is giggling each time Bob says something.,Alice,Bob,flirting with,indirect
-Alice and Bob are sitting at a table having a conversation. Alice is flirting with Bob.,Alice is playfully signaling romantic interest towards Bob.,Alice,Bob,flirting with,direct
-Alice and Bob are sitting at a table having a conversation. Alice is respecting Bob.,Alice is not interrupting Bob.,Alice,Bob,respecting,indirect
-Alice and Bob are sitting at a table having a conversation. Alice is respecting Bob.,Alice is being considerate towards Bob.,Alice,Bob,respecting,direct
-Alice and Bob are sitting at a table having a conversation. Alice is insulting Bob.,Alice tells Bob that they are the dumbest person that Alice has ever met.,Alice,Bob,insulting,indirect
-Alice and Bob are sitting at a table having a conversation. Alice is insulting Bob.,Alice is saying hurtful things about Bob.,Alice,Bob,insulting,direct
-Alice and Bob are sitting at a table having a conversation. Alice is comforting Bob.,Alice is patting Bob on the shoulder as Bob cries.,Alice,Bob,comforting,indirect
-Alice and Bob are sitting at a table having a conversation. Alice is comforting Bob.,Alice is trying to make Bob feel better.,Alice,Bob,comforting,direct
-Alice and Bob are sitting at a table having a conversation. Alice is envying Bob.,Alice tries to act nonchalant when Bob talks about their promotion.,Alice,Bob,envying,indirect
-Alice and Bob are sitting at a table having a conversation. Alice is envying Bob.,Alice wishes they were in Bob's place.,Alice,Bob,envying,direct
-Alice and Beatrice are sitting at a table having a conversation. Alice is teasing Beatrice.,Alice is playfully mentioning an embarrassing thing that Beatrice did.,Alice,Beatrice,teasing,indirect
-Alice and Beatrice are sitting at a table having a conversation. Alice is teasing Beatrice.,Alice is making light-hearted jokes at Beatrice’s expense.,Alice,Beatrice,teasing,direct
-Alice and Beatrice are sitting at a table having a conversation. Alice is flirting with Beatrice.,Alice is giggling each time Beatrice says something.,Alice,Beatrice,flirting with,indirect
-Alice and Beatrice are sitting at a table having a conversation. Alice is flirting with Beatrice.,Alice is playfully signaling romantic interest towards Beatrice.,Alice,Beatrice,flirting with,direct
-Alice and Beatrice are sitting at a table having a conversation. Alice is respecting Beatrice.,Alice is not interrupting Beatrice.,Alice,Beatrice,respecting,indirect
-Alice and Beatrice are sitting at a table having a conversation. Alice is respecting Beatrice.,Alice is being considerate towards Beatrice.,Alice,Beatrice,respecting,direct
-Alice and Beatrice are sitting at a table having a conversation. Alice is insulting Beatrice.,Alice tells Beatrice that they are the dumbest person that Alice has ever met.,Alice,Beatrice,insulting,indirect
-Alice and Beatrice are sitting at a table having a conversation. Alice is insulting Beatrice.,Alice is saying hurtful things about Beatrice.,Alice,Beatrice,insulting,direct
-Alice and Beatrice are sitting at a table having a conversation. Alice is comforting Beatrice.,Alice is patting Beatrice on the shoulder as Beatrice cries.,Alice,Beatrice,comforting,indirect
-Alice and Beatrice are sitting at a table having a conversation. Alice is comforting Beatrice.,Alice is trying to make Beatrice feel better.,Alice,Beatrice,comforting,direct
-Alice and Beatrice are sitting at a table having a conversation. Alice is envying Beatrice.,Alice tries to act nonchalant when Beatrice talks about their promotion.,Alice,Beatrice,envying,indirect
-Alice and Beatrice are sitting at a table having a conversation. Alice is envying Beatrice.,Alice wishes they were in Beatrice's place.,Alice,Beatrice,envying,direct
-Alice and B are sitting at a table having a conversation. Alice is teasing B.,Alice is playfully mentioning an embarrassing thing that B did.,Alice,B,teasing,indirect
-Alice and B are sitting at a table having a conversation. Alice is teasing B.,Alice is making light-hearted jokes at B’s expense.,Alice,B,teasing,direct
-Alice and B are sitting at a table having a conversation. Alice is flirting with B.,Alice is giggling each time B says something.,Alice,B,flirting with,indirect
-Alice and B are sitting at a table having a conversation. Alice is flirting with B.,Alice is playfully signaling romantic interest towards B.,Alice,B,flirting with,direct
-Alice and B are sitting at a table having a conversation. Alice is respecting B.,Alice is not interrupting B.,Alice,B,respecting,indirect
-Alice and B are sitting at a table having a conversation. Alice is respecting B.,Alice is being considerate towards B.,Alice,B,respecting,direct
-Alice and B are sitting at a table having a conversation. Alice is insulting B.,Alice tells B that they are the dumbest person that Alice has ever met.,Alice,B,insulting,indirect
-Alice and B are sitting at a table having a conversation. Alice is insulting B.,Alice is saying hurtful things about B.,Alice,B,insulting,direct
-Alice and B are sitting at a table having a conversation. Alice is comforting B.,Alice is patting B on the shoulder as B cries.,Alice,B,comforting,indirect
-Alice and B are sitting at a table having a conversation. Alice is comforting B.,Alice is trying to make B feel better.,Alice,B,comforting,direct
-Alice and B are sitting at a table having a conversation. Alice is envying B.,Alice tries to act nonchalant when B talks about their promotion.,Alice,B,envying,indirect
-Alice and B are sitting at a table having a conversation. Alice is envying B.,Alice wishes they were in B's place.,Alice,B,envying,direct
-Andrew and Bob are sitting at a table having a conversation. Andrew is teasing Bob.,Andrew is playfully mentioning an embarrassing thing that Bob did.,Andrew,Bob,teasing,indirect
-Andrew and Bob are sitting at a table having a conversation. Andrew is teasing Bob.,Andrew is making light-hearted jokes at Bob’s expense.,Andrew,Bob,teasing,direct
-Andrew and Bob are sitting at a table having a conversation. Andrew is flirting with Bob.,Andrew is giggling each time Bob says something.,Andrew,Bob,flirting with,indirect
-Andrew and Bob are sitting at a table having a conversation. Andrew is flirting with Bob.,Andrew is playfully signaling romantic interest towards Bob.,Andrew,Bob,flirting with,direct
-Andrew and Bob are sitting at a table having a conversation. Andrew is respecting Bob.,Andrew is not interrupting Bob.,Andrew,Bob,respecting,indirect
-Andrew and Bob are sitting at a table having a conversation. Andrew is respecting Bob.,Andrew is being considerate towards Bob.,Andrew,Bob,respecting,direct
-Andrew and Bob are sitting at a table having a conversation. Andrew is insulting Bob.,Andrew tells Bob that they are the dumbest person that Andrew has ever met.,Andrew,Bob,insulting,indirect
-Andrew and Bob are sitting at a table having a conversation. Andrew is insulting Bob.,Andrew is saying hurtful things about Bob.,Andrew,Bob,insulting,direct
-Andrew and Bob are sitting at a table having a conversation. Andrew is comforting Bob.,Andrew is patting Bob on the shoulder as Bob cries.,Andrew,Bob,comforting,indirect
-Andrew and Bob are sitting at a table having a conversation. Andrew is comforting Bob.,Andrew is trying to make Bob feel better.,Andrew,Bob,comforting,direct
-Andrew and Bob are sitting at a table having a conversation. Andrew is envying Bob.,Andrew tries to act nonchalant when Bob talks about their promotion.,Andrew,Bob,envying,indirect
-Andrew and Bob are sitting at a table having a conversation. Andrew is envying Bob.,Andrew wishes they were in Bob's place.,Andrew,Bob,envying,direct
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is teasing Beatrice.,Andrew is playfully mentioning an embarrassing thing that Beatrice did.,Andrew,Beatrice,teasing,indirect
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is teasing Beatrice.,Andrew is making light-hearted jokes at Beatrice’s expense.,Andrew,Beatrice,teasing,direct
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is flirting with Beatrice.,Andrew is giggling each time Beatrice says something.,Andrew,Beatrice,flirting with,indirect
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is flirting with Beatrice.,Andrew is playfully signaling romantic interest towards Beatrice.,Andrew,Beatrice,flirting with,direct
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is respecting Beatrice.,Andrew is not interrupting Beatrice.,Andrew,Beatrice,respecting,indirect
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is respecting Beatrice.,Andrew is being considerate towards Beatrice.,Andrew,Beatrice,respecting,direct
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is insulting Beatrice.,Andrew tells Beatrice that they are the dumbest person that Andrew has ever met.,Andrew,Beatrice,insulting,indirect
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is insulting Beatrice.,Andrew is saying hurtful things about Beatrice.,Andrew,Beatrice,insulting,direct
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is comforting Beatrice.,Andrew is patting Beatrice on the shoulder as Beatrice cries.,Andrew,Beatrice,comforting,indirect
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is comforting Beatrice.,Andrew is trying to make Beatrice feel better.,Andrew,Beatrice,comforting,direct
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is envying Beatrice.,Andrew tries to act nonchalant when Beatrice talks about their promotion.,Andrew,Beatrice,envying,indirect
-Andrew and Beatrice are sitting at a table having a conversation. Andrew is envying Beatrice.,Andrew wishes they were in Beatrice's place.,Andrew,Beatrice,envying,direct
-Andrew and B are sitting at a table having a conversation. Andrew is teasing B.,Andrew is playfully mentioning an embarrassing thing that B did.,Andrew,B,teasing,indirect
-Andrew and B are sitting at a table having a conversation. Andrew is teasing B.,Andrew is making light-hearted jokes at B’s expense.,Andrew,B,teasing,direct
-Andrew and B are sitting at a table having a conversation. Andrew is flirting with B.,Andrew is giggling each time B says something.,Andrew,B,flirting with,indirect
-Andrew and B are sitting at a table having a conversation. Andrew is flirting with B.,Andrew is playfully signaling romantic interest towards B.,Andrew,B,flirting with,direct
-Andrew and B are sitting at a table having a conversation. Andrew is respecting B.,Andrew is not interrupting B.,Andrew,B,respecting,indirect
-Andrew and B are sitting at a table having a conversation. Andrew is respecting B.,Andrew is being considerate towards B.,Andrew,B,respecting,direct
-Andrew and B are sitting at a table having a conversation. Andrew is insulting B.,Andrew tells B that they are the dumbest person that Andrew has ever met.,Andrew,B,insulting,indirect
-Andrew and B are sitting at a table having a conversation. Andrew is insulting B.,Andrew is saying hurtful things about B.,Andrew,B,insulting,direct
-Andrew and B are sitting at a table having a conversation. Andrew is comforting B.,Andrew is patting B on the shoulder as B cries.,Andrew,B,comforting,indirect
-Andrew and B are sitting at a table having a conversation. Andrew is comforting B.,Andrew is trying to make B feel better.,Andrew,B,comforting,direct
-Andrew and B are sitting at a table having a conversation. Andrew is envying B.,Andrew tries to act nonchalant when B talks about their promotion.,Andrew,B,envying,indirect
-Andrew and B are sitting at a table having a conversation. Andrew is envying B.,Andrew wishes they were in B's place.,Andrew,B,envying,direct
-A and Bob are sitting at a table having a conversation. A is teasing Bob.,A is playfully mentioning an embarrassing thing that Bob did.,A,Bob,teasing,indirect
-A and Bob are sitting at a table having a conversation. A is teasing Bob.,A is making light-hearted jokes at Bob’s expense.,A,Bob,teasing,direct
-A and Bob are sitting at a table having a conversation. A is flirting with Bob.,A is giggling each time Bob says something.,A,Bob,flirting with,indirect
-A and Bob are sitting at a table having a conversation. A is flirting with Bob.,A is playfully signaling romantic interest towards Bob.,A,Bob,flirting with,direct
-A and Bob are sitting at a table having a conversation. A is respecting Bob.,A is not interrupting Bob.,A,Bob,respecting,indirect
-A and Bob are sitting at a table having a conversation. A is respecting Bob.,A is being considerate towards Bob.,A,Bob,respecting,direct
-A and Bob are sitting at a table having a conversation. A is insulting Bob.,A tells Bob that they are the dumbest person that A has ever met.,A,Bob,insulting,indirect
-A and Bob are sitting at a table having a conversation. A is insulting Bob.,A is saying hurtful things about Bob.,A,Bob,insulting,direct
-A and Bob are sitting at a table having a conversation. A is comforting Bob.,A is patting Bob on the shoulder as Bob cries.,A,Bob,comforting,indirect
-A and Bob are sitting at a table having a conversation. A is comforting Bob.,A is trying to make Bob feel better.,A,Bob,comforting,direct
-A and Bob are sitting at a table having a conversation. A is envying Bob.,A tries to act nonchalant when Bob talks about their promotion.,A,Bob,envying,indirect
-A and Bob are sitting at a table having a conversation. A is envying Bob.,A wishes they were in Bob's place.,A,Bob,envying,direct
-A and Beatrice are sitting at a table having a conversation. A is teasing Beatrice.,A is playfully mentioning an embarrassing thing that Beatrice did.,A,Beatrice,teasing,indirect
-A and Beatrice are sitting at a table having a conversation. A is teasing Beatrice.,A is making light-hearted jokes at Beatrice’s expense.,A,Beatrice,teasing,direct
-A and Beatrice are sitting at a table having a conversation. A is flirting with Beatrice.,A is giggling each time Beatrice says something.,A,Beatrice,flirting with,indirect
-A and Beatrice are sitting at a table having a conversation. A is flirting with Beatrice.,A is playfully signaling romantic interest towards Beatrice.,A,Beatrice,flirting with,direct
-A and Beatrice are sitting at a table having a conversation. A is respecting Beatrice.,A is not interrupting Beatrice.,A,Beatrice,respecting,indirect
-A and Beatrice are sitting at a table having a conversation. A is respecting Beatrice.,A is being considerate towards Beatrice.,A,Beatrice,respecting,direct
-A and Beatrice are sitting at a table having a conversation. A is insulting Beatrice.,A tells Beatrice that they are the dumbest person that A has ever met.,A,Beatrice,insulting,indirect
-A and Beatrice are sitting at a table having a conversation. A is insulting Beatrice.,A is saying hurtful things about Beatrice.,A,Beatrice,insulting,direct
-A and Beatrice are sitting at a table having a conversation. A is comforting Beatrice.,A is patting Beatrice on the shoulder as Beatrice cries.,A,Beatrice,comforting,indirect
-A and Beatrice are sitting at a table having a conversation. A is comforting Beatrice.,A is trying to make Beatrice feel better.,A,Beatrice,comforting,direct
-A and Beatrice are sitting at a table having a conversation. A is envying Beatrice.,A tries to act nonchalant when Beatrice talks about their promotion.,A,Beatrice,envying,indirect
-A and Beatrice are sitting at a table having a conversation. A is envying Beatrice.,A wishes they were in Beatrice's place.,A,Beatrice,envying,direct
-A and B are sitting at a table having a conversation. A is teasing B.,A is playfully mentioning an embarrassing thing that B did.,A,B,teasing,indirect
-A and B are sitting at a table having a conversation. A is teasing B.,A is making light-hearted jokes at B’s expense.,A,B,teasing,direct
-A and B are sitting at a table having a conversation. A is flirting with B.,A is giggling each time B says something.,A,B,flirting with,indirect
-A and B are sitting at a table having a conversation. A is flirting with B.,A is playfully signaling romantic interest towards B.,A,B,flirting with,direct
-A and B are sitting at a table having a conversation. A is respecting B.,A is not interrupting B.,A,B,respecting,indirect
-A and B are sitting at a table having a conversation. A is respecting B.,A is being considerate towards B.,A,B,respecting,direct
-A and B are sitting at a table having a conversation. A is insulting B.,A tells B that they are the dumbest person that A has ever met.,A,B,insulting,indirect
-A and B are sitting at a table having a conversation. A is insulting B.,A is saying hurtful things about B.,A,B,insulting,direct
-A and B are sitting at a table having a conversation. A is comforting B.,A is patting B on the shoulder as B cries.,A,B,comforting,indirect
-A and B are sitting at a table having a conversation. A is comforting B.,A is trying to make B feel better.,A,B,comforting,direct
-A and B are sitting at a table having a conversation. A is envying B.,A tries to act nonchalant when B talks about their promotion.,A,B,envying,indirect
-A and B are sitting at a table having a conversation. A is envying B.,A wishes they were in B's place.,A,B,envying,direct
+context,target,condition,subject1,subject2,directness,stim_classname
+Alice and Bob are sitting at a table having a conversation. Alice is respecting Bob.,Alice is not interrupting Bob.,congruent,Alice,Bob,indirect,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is insulting Bob.,Alice tells Bob that Bob is the dumbest person that Alice has ever met.,congruent,Alice,Bob,indirect,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is respecting Bob.,Alice tells Bob that Bob is the dumbest person that Alice has ever met.,incongruent,Alice,Bob,indirect,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is insulting Bob.,Alice is not interrupting Bob.,incongruent,Alice,Bob,indirect,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is respecting Charlie.,Alice is not interrupting Charlie.,congruent,Alice,Charlie,indirect,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is insulting Charlie.,Alice tells Charlie that Charlie is the dumbest person that Alice has ever met.,congruent,Alice,Charlie,indirect,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is respecting Charlie.,Alice tells Charlie that Charlie is the dumbest person that Alice has ever met.,incongruent,Alice,Charlie,indirect,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is insulting Charlie.,Alice is not interrupting Charlie.,incongruent,Alice,Charlie,indirect,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is respecting Barack Obama.,Alice is not interrupting Barack Obama.,congruent,Alice,Barack Obama,indirect,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is insulting Barack Obama.,Alice tells Barack Obama that Barack Obama is the dumbest person that Alice has ever met.,congruent,Alice,Barack Obama,indirect,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is respecting Barack Obama.,Alice tells Barack Obama that Barack Obama is the dumbest person that Alice has ever met.,incongruent,Alice,Barack Obama,indirect,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is insulting Barack Obama.,Alice is not interrupting Barack Obama.,incongruent,Alice,Barack Obama,indirect,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is respecting Donald Trump.,Alice is not interrupting Donald Trump.,congruent,Alice,Donald Trump,indirect,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is insulting Donald Trump.,Alice tells Donald Trump that Donald Trump is the dumbest person that Alice has ever met.,congruent,Alice,Donald Trump,indirect,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is respecting Donald Trump.,Alice tells Donald Trump that Donald Trump is the dumbest person that Alice has ever met.,incongruent,Alice,Donald Trump,indirect,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is insulting Donald Trump.,Alice is not interrupting Donald Trump.,incongruent,Alice,Donald Trump,indirect,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is respecting Mom.,Alice is not interrupting Mom.,congruent,Alice,Mom,indirect,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is insulting Mom.,Alice tells Mom that Mom is the dumbest person that Alice has ever met.,congruent,Alice,Mom,indirect,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is respecting Mom.,Alice tells Mom that Mom is the dumbest person that Alice has ever met.,incongruent,Alice,Mom,indirect,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is insulting Mom.,Alice is not interrupting Mom.,incongruent,Alice,Mom,indirect,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is respecting Dad.,Alice is not interrupting Dad.,congruent,Alice,Dad,indirect,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is insulting Dad.,Alice tells Dad that Dad is the dumbest person that Alice has ever met.,congruent,Alice,Dad,indirect,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is respecting Dad.,Alice tells Dad that Dad is the dumbest person that Alice has ever met.,incongruent,Alice,Dad,indirect,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is insulting Dad.,Alice is not interrupting Dad.,incongruent,Alice,Dad,indirect,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is respecting Charlie.,Bob is not interrupting Charlie.,congruent,Bob,Charlie,indirect,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is insulting Charlie.,Bob tells Charlie that Charlie is the dumbest person that Bob has ever met.,congruent,Bob,Charlie,indirect,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is respecting Charlie.,Bob tells Charlie that Charlie is the dumbest person that Bob has ever met.,incongruent,Bob,Charlie,indirect,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is insulting Charlie.,Bob is not interrupting Charlie.,incongruent,Bob,Charlie,indirect,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is respecting Barack Obama.,Bob is not interrupting Barack Obama.,congruent,Bob,Barack Obama,indirect,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is insulting Barack Obama.,Bob tells Barack Obama that Barack Obama is the dumbest person that Bob has ever met.,congruent,Bob,Barack Obama,indirect,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is respecting Barack Obama.,Bob tells Barack Obama that Barack Obama is the dumbest person that Bob has ever met.,incongruent,Bob,Barack Obama,indirect,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is insulting Barack Obama.,Bob is not interrupting Barack Obama.,incongruent,Bob,Barack Obama,indirect,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is respecting Donald Trump.,Bob is not interrupting Donald Trump.,congruent,Bob,Donald Trump,indirect,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is insulting Donald Trump.,Bob tells Donald Trump that Donald Trump is the dumbest person that Bob has ever met.,congruent,Bob,Donald Trump,indirect,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is respecting Donald Trump.,Bob tells Donald Trump that Donald Trump is the dumbest person that Bob has ever met.,incongruent,Bob,Donald Trump,indirect,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is insulting Donald Trump.,Bob is not interrupting Donald Trump.,incongruent,Bob,Donald Trump,indirect,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is respecting Mom.,Bob is not interrupting Mom.,congruent,Bob,Mom,indirect,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is insulting Mom.,Bob tells Mom that Mom is the dumbest person that Bob has ever met.,congruent,Bob,Mom,indirect,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is respecting Mom.,Bob tells Mom that Mom is the dumbest person that Bob has ever met.,incongruent,Bob,Mom,indirect,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is insulting Mom.,Bob is not interrupting Mom.,incongruent,Bob,Mom,indirect,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is respecting Dad.,Bob is not interrupting Dad.,congruent,Bob,Dad,indirect,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is insulting Dad.,Bob tells Dad that Dad is the dumbest person that Bob has ever met.,congruent,Bob,Dad,indirect,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is respecting Dad.,Bob tells Dad that Dad is the dumbest person that Bob has ever met.,incongruent,Bob,Dad,indirect,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is insulting Dad.,Bob is not interrupting Dad.,incongruent,Bob,Dad,indirect,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is respecting Barack Obama.,Charlie is not interrupting Barack Obama.,congruent,Charlie,Barack Obama,indirect,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is insulting Barack Obama.,Charlie tells Barack Obama that Barack Obama is the dumbest person that Charlie has ever met.,congruent,Charlie,Barack Obama,indirect,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is respecting Barack Obama.,Charlie tells Barack Obama that Barack Obama is the dumbest person that Charlie has ever met.,incongruent,Charlie,Barack Obama,indirect,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is insulting Barack Obama.,Charlie is not interrupting Barack Obama.,incongruent,Charlie,Barack Obama,indirect,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is respecting Donald Trump.,Charlie is not interrupting Donald Trump.,congruent,Charlie,Donald Trump,indirect,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is insulting Donald Trump.,Charlie tells Donald Trump that Donald Trump is the dumbest person that Charlie has ever met.,congruent,Charlie,Donald Trump,indirect,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is respecting Donald Trump.,Charlie tells Donald Trump that Donald Trump is the dumbest person that Charlie has ever met.,incongruent,Charlie,Donald Trump,indirect,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is insulting Donald Trump.,Charlie is not interrupting Donald Trump.,incongruent,Charlie,Donald Trump,indirect,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is respecting Mom.,Charlie is not interrupting Mom.,congruent,Charlie,Mom,indirect,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is insulting Mom.,Charlie tells Mom that Mom is the dumbest person that Charlie has ever met.,congruent,Charlie,Mom,indirect,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is respecting Mom.,Charlie tells Mom that Mom is the dumbest person that Charlie has ever met.,incongruent,Charlie,Mom,indirect,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is insulting Mom.,Charlie is not interrupting Mom.,incongruent,Charlie,Mom,indirect,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is respecting Dad.,Charlie is not interrupting Dad.,congruent,Charlie,Dad,indirect,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is insulting Dad.,Charlie tells Dad that Dad is the dumbest person that Charlie has ever met.,congruent,Charlie,Dad,indirect,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is respecting Dad.,Charlie tells Dad that Dad is the dumbest person that Charlie has ever met.,incongruent,Charlie,Dad,indirect,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is insulting Dad.,Charlie is not interrupting Dad.,incongruent,Charlie,Dad,indirect,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is respecting Donald Trump.,Barack Obama is not interrupting Donald Trump.,congruent,Barack Obama,Donald Trump,indirect,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is insulting Donald Trump.,Barack Obama tells Donald Trump that Donald Trump is the dumbest person that Barack Obama has ever met.,congruent,Barack Obama,Donald Trump,indirect,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is respecting Donald Trump.,Barack Obama tells Donald Trump that Donald Trump is the dumbest person that Barack Obama has ever met.,incongruent,Barack Obama,Donald Trump,indirect,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is insulting Donald Trump.,Barack Obama is not interrupting Donald Trump.,incongruent,Barack Obama,Donald Trump,indirect,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is respecting Mom.,Barack Obama is not interrupting Mom.,congruent,Barack Obama,Mom,indirect,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is insulting Mom.,Barack Obama tells Mom that Mom is the dumbest person that Barack Obama has ever met.,congruent,Barack Obama,Mom,indirect,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is respecting Mom.,Barack Obama tells Mom that Mom is the dumbest person that Barack Obama has ever met.,incongruent,Barack Obama,Mom,indirect,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is insulting Mom.,Barack Obama is not interrupting Mom.,incongruent,Barack Obama,Mom,indirect,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is respecting Dad.,Barack Obama is not interrupting Dad.,congruent,Barack Obama,Dad,indirect,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is insulting Dad.,Barack Obama tells Dad that Dad is the dumbest person that Barack Obama has ever met.,congruent,Barack Obama,Dad,indirect,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is respecting Dad.,Barack Obama tells Dad that Dad is the dumbest person that Barack Obama has ever met.,incongruent,Barack Obama,Dad,indirect,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is insulting Dad.,Barack Obama is not interrupting Dad.,incongruent,Barack Obama,Dad,indirect,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is respecting Mom.,Donald Trump is not interrupting Mom.,congruent,Donald Trump,Mom,indirect,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is insulting Mom.,Donald Trump tells Mom that Mom is the dumbest person that Donald Trump has ever met.,congruent,Donald Trump,Mom,indirect,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is respecting Mom.,Donald Trump tells Mom that Mom is the dumbest person that Donald Trump has ever met.,incongruent,Donald Trump,Mom,indirect,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is insulting Mom.,Donald Trump is not interrupting Mom.,incongruent,Donald Trump,Mom,indirect,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is respecting Dad.,Donald Trump is not interrupting Dad.,congruent,Donald Trump,Dad,indirect,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is insulting Dad.,Donald Trump tells Dad that Dad is the dumbest person that Donald Trump has ever met.,congruent,Donald Trump,Dad,indirect,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is respecting Dad.,Donald Trump tells Dad that Dad is the dumbest person that Donald Trump has ever met.,incongruent,Donald Trump,Dad,indirect,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is insulting Dad.,Donald Trump is not interrupting Dad.,incongruent,Donald Trump,Dad,indirect,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is respecting Dad.,Mom is not interrupting Dad.,congruent,Mom,Dad,indirect,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is insulting Dad.,Mom tells Dad that Dad is the dumbest person that Mom has ever met.,congruent,Mom,Dad,indirect,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is respecting Dad.,Mom tells Dad that Dad is the dumbest person that Mom has ever met.,incongruent,Mom,Dad,indirect,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is insulting Dad.,Mom is not interrupting Dad.,incongruent,Mom,Dad,indirect,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is respecting Bob.,Alice is being considerate towards Bob.,congruent,Alice,Bob,direct,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is insulting Bob.,Alice is saying hurtful things about Bob.,congruent,Alice,Bob,direct,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is respecting Bob.,Alice is saying hurtful things about Bob.,incongruent,Alice,Bob,direct,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is insulting Bob.,Alice is being considerate towards Bob.,incongruent,Alice,Bob,direct,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is respecting Charlie.,Alice is being considerate towards Charlie.,congruent,Alice,Charlie,direct,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is insulting Charlie.,Alice is saying hurtful things about Charlie.,congruent,Alice,Charlie,direct,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is respecting Charlie.,Alice is saying hurtful things about Charlie.,incongruent,Alice,Charlie,direct,respecting_insulting
+Alice and Charlie are sitting at a table having a conversation. Alice is insulting Charlie.,Alice is being considerate towards Charlie.,incongruent,Alice,Charlie,direct,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is respecting Barack Obama.,Alice is being considerate towards Barack Obama.,congruent,Alice,Barack Obama,direct,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is insulting Barack Obama.,Alice is saying hurtful things about Barack Obama.,congruent,Alice,Barack Obama,direct,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is respecting Barack Obama.,Alice is saying hurtful things about Barack Obama.,incongruent,Alice,Barack Obama,direct,respecting_insulting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is insulting Barack Obama.,Alice is being considerate towards Barack Obama.,incongruent,Alice,Barack Obama,direct,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is respecting Donald Trump.,Alice is being considerate towards Donald Trump.,congruent,Alice,Donald Trump,direct,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is insulting Donald Trump.,Alice is saying hurtful things about Donald Trump.,congruent,Alice,Donald Trump,direct,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is respecting Donald Trump.,Alice is saying hurtful things about Donald Trump.,incongruent,Alice,Donald Trump,direct,respecting_insulting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is insulting Donald Trump.,Alice is being considerate towards Donald Trump.,incongruent,Alice,Donald Trump,direct,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is respecting Mom.,Alice is being considerate towards Mom.,congruent,Alice,Mom,direct,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is insulting Mom.,Alice is saying hurtful things about Mom.,congruent,Alice,Mom,direct,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is respecting Mom.,Alice is saying hurtful things about Mom.,incongruent,Alice,Mom,direct,respecting_insulting
+Alice and Mom are sitting at a table having a conversation. Alice is insulting Mom.,Alice is being considerate towards Mom.,incongruent,Alice,Mom,direct,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is respecting Dad.,Alice is being considerate towards Dad.,congruent,Alice,Dad,direct,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is insulting Dad.,Alice is saying hurtful things about Dad.,congruent,Alice,Dad,direct,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is respecting Dad.,Alice is saying hurtful things about Dad.,incongruent,Alice,Dad,direct,respecting_insulting
+Alice and Dad are sitting at a table having a conversation. Alice is insulting Dad.,Alice is being considerate towards Dad.,incongruent,Alice,Dad,direct,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is respecting Charlie.,Bob is being considerate towards Charlie.,congruent,Bob,Charlie,direct,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is insulting Charlie.,Bob is saying hurtful things about Charlie.,congruent,Bob,Charlie,direct,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is respecting Charlie.,Bob is saying hurtful things about Charlie.,incongruent,Bob,Charlie,direct,respecting_insulting
+Bob and Charlie are sitting at a table having a conversation. Bob is insulting Charlie.,Bob is being considerate towards Charlie.,incongruent,Bob,Charlie,direct,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is respecting Barack Obama.,Bob is being considerate towards Barack Obama.,congruent,Bob,Barack Obama,direct,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is insulting Barack Obama.,Bob is saying hurtful things about Barack Obama.,congruent,Bob,Barack Obama,direct,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is respecting Barack Obama.,Bob is saying hurtful things about Barack Obama.,incongruent,Bob,Barack Obama,direct,respecting_insulting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is insulting Barack Obama.,Bob is being considerate towards Barack Obama.,incongruent,Bob,Barack Obama,direct,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is respecting Donald Trump.,Bob is being considerate towards Donald Trump.,congruent,Bob,Donald Trump,direct,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is insulting Donald Trump.,Bob is saying hurtful things about Donald Trump.,congruent,Bob,Donald Trump,direct,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is respecting Donald Trump.,Bob is saying hurtful things about Donald Trump.,incongruent,Bob,Donald Trump,direct,respecting_insulting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is insulting Donald Trump.,Bob is being considerate towards Donald Trump.,incongruent,Bob,Donald Trump,direct,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is respecting Mom.,Bob is being considerate towards Mom.,congruent,Bob,Mom,direct,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is insulting Mom.,Bob is saying hurtful things about Mom.,congruent,Bob,Mom,direct,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is respecting Mom.,Bob is saying hurtful things about Mom.,incongruent,Bob,Mom,direct,respecting_insulting
+Bob and Mom are sitting at a table having a conversation. Bob is insulting Mom.,Bob is being considerate towards Mom.,incongruent,Bob,Mom,direct,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is respecting Dad.,Bob is being considerate towards Dad.,congruent,Bob,Dad,direct,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is insulting Dad.,Bob is saying hurtful things about Dad.,congruent,Bob,Dad,direct,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is respecting Dad.,Bob is saying hurtful things about Dad.,incongruent,Bob,Dad,direct,respecting_insulting
+Bob and Dad are sitting at a table having a conversation. Bob is insulting Dad.,Bob is being considerate towards Dad.,incongruent,Bob,Dad,direct,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is respecting Barack Obama.,Charlie is being considerate towards Barack Obama.,congruent,Charlie,Barack Obama,direct,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is insulting Barack Obama.,Charlie is saying hurtful things about Barack Obama.,congruent,Charlie,Barack Obama,direct,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is respecting Barack Obama.,Charlie is saying hurtful things about Barack Obama.,incongruent,Charlie,Barack Obama,direct,respecting_insulting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is insulting Barack Obama.,Charlie is being considerate towards Barack Obama.,incongruent,Charlie,Barack Obama,direct,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is respecting Donald Trump.,Charlie is being considerate towards Donald Trump.,congruent,Charlie,Donald Trump,direct,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is insulting Donald Trump.,Charlie is saying hurtful things about Donald Trump.,congruent,Charlie,Donald Trump,direct,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is respecting Donald Trump.,Charlie is saying hurtful things about Donald Trump.,incongruent,Charlie,Donald Trump,direct,respecting_insulting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is insulting Donald Trump.,Charlie is being considerate towards Donald Trump.,incongruent,Charlie,Donald Trump,direct,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is respecting Mom.,Charlie is being considerate towards Mom.,congruent,Charlie,Mom,direct,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is insulting Mom.,Charlie is saying hurtful things about Mom.,congruent,Charlie,Mom,direct,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is respecting Mom.,Charlie is saying hurtful things about Mom.,incongruent,Charlie,Mom,direct,respecting_insulting
+Charlie and Mom are sitting at a table having a conversation. Charlie is insulting Mom.,Charlie is being considerate towards Mom.,incongruent,Charlie,Mom,direct,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is respecting Dad.,Charlie is being considerate towards Dad.,congruent,Charlie,Dad,direct,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is insulting Dad.,Charlie is saying hurtful things about Dad.,congruent,Charlie,Dad,direct,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is respecting Dad.,Charlie is saying hurtful things about Dad.,incongruent,Charlie,Dad,direct,respecting_insulting
+Charlie and Dad are sitting at a table having a conversation. Charlie is insulting Dad.,Charlie is being considerate towards Dad.,incongruent,Charlie,Dad,direct,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is respecting Donald Trump.,Barack Obama is being considerate towards Donald Trump.,congruent,Barack Obama,Donald Trump,direct,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is insulting Donald Trump.,Barack Obama is saying hurtful things about Donald Trump.,congruent,Barack Obama,Donald Trump,direct,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is respecting Donald Trump.,Barack Obama is saying hurtful things about Donald Trump.,incongruent,Barack Obama,Donald Trump,direct,respecting_insulting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is insulting Donald Trump.,Barack Obama is being considerate towards Donald Trump.,incongruent,Barack Obama,Donald Trump,direct,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is respecting Mom.,Barack Obama is being considerate towards Mom.,congruent,Barack Obama,Mom,direct,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is insulting Mom.,Barack Obama is saying hurtful things about Mom.,congruent,Barack Obama,Mom,direct,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is respecting Mom.,Barack Obama is saying hurtful things about Mom.,incongruent,Barack Obama,Mom,direct,respecting_insulting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is insulting Mom.,Barack Obama is being considerate towards Mom.,incongruent,Barack Obama,Mom,direct,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is respecting Dad.,Barack Obama is being considerate towards Dad.,congruent,Barack Obama,Dad,direct,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is insulting Dad.,Barack Obama is saying hurtful things about Dad.,congruent,Barack Obama,Dad,direct,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is respecting Dad.,Barack Obama is saying hurtful things about Dad.,incongruent,Barack Obama,Dad,direct,respecting_insulting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is insulting Dad.,Barack Obama is being considerate towards Dad.,incongruent,Barack Obama,Dad,direct,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is respecting Mom.,Donald Trump is being considerate towards Mom.,congruent,Donald Trump,Mom,direct,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is insulting Mom.,Donald Trump is saying hurtful things about Mom.,congruent,Donald Trump,Mom,direct,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is respecting Mom.,Donald Trump is saying hurtful things about Mom.,incongruent,Donald Trump,Mom,direct,respecting_insulting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is insulting Mom.,Donald Trump is being considerate towards Mom.,incongruent,Donald Trump,Mom,direct,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is respecting Dad.,Donald Trump is being considerate towards Dad.,congruent,Donald Trump,Dad,direct,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is insulting Dad.,Donald Trump is saying hurtful things about Dad.,congruent,Donald Trump,Dad,direct,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is respecting Dad.,Donald Trump is saying hurtful things about Dad.,incongruent,Donald Trump,Dad,direct,respecting_insulting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is insulting Dad.,Donald Trump is being considerate towards Dad.,incongruent,Donald Trump,Dad,direct,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is respecting Dad.,Mom is being considerate towards Dad.,congruent,Mom,Dad,direct,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is insulting Dad.,Mom is saying hurtful things about Dad.,congruent,Mom,Dad,direct,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is respecting Dad.,Mom is saying hurtful things about Dad.,incongruent,Mom,Dad,direct,respecting_insulting
+Mom and Dad are sitting at a table having a conversation. Mom is insulting Dad.,Mom is being considerate towards Dad.,incongruent,Mom,Dad,direct,respecting_insulting
+Alice and Bob are sitting at a table having a conversation. Alice is teasing Bob.,Alice is playfully mentioning an embarrassing thing that Bob did.,congruent,Alice,Bob,indirect,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is comforting Bob.,Alice is patting Bob on the shoulder as Bob cries.,congruent,Alice,Bob,indirect,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is teasing Bob.,Alice is patting Bob on the shoulder as Bob cries.,incongruent,Alice,Bob,indirect,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is comforting Bob.,Alice is playfully mentioning an embarrassing thing that Bob did.,incongruent,Alice,Bob,indirect,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is teasing Charlie.,Alice is playfully mentioning an embarrassing thing that Charlie did.,congruent,Alice,Charlie,indirect,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is comforting Charlie.,Alice is patting Charlie on the shoulder as Charlie cries.,congruent,Alice,Charlie,indirect,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is teasing Charlie.,Alice is patting Charlie on the shoulder as Charlie cries.,incongruent,Alice,Charlie,indirect,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is comforting Charlie.,Alice is playfully mentioning an embarrassing thing that Charlie did.,incongruent,Alice,Charlie,indirect,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is teasing Barack Obama.,Alice is playfully mentioning an embarrassing thing that Barack Obama did.,congruent,Alice,Barack Obama,indirect,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is comforting Barack Obama.,Alice is patting Barack Obama on the shoulder as Barack Obama cries.,congruent,Alice,Barack Obama,indirect,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is teasing Barack Obama.,Alice is patting Barack Obama on the shoulder as Barack Obama cries.,incongruent,Alice,Barack Obama,indirect,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is comforting Barack Obama.,Alice is playfully mentioning an embarrassing thing that Barack Obama did.,incongruent,Alice,Barack Obama,indirect,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is teasing Donald Trump.,Alice is playfully mentioning an embarrassing thing that Donald Trump did.,congruent,Alice,Donald Trump,indirect,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is comforting Donald Trump.,Alice is patting Donald Trump on the shoulder as Donald Trump cries.,congruent,Alice,Donald Trump,indirect,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is teasing Donald Trump.,Alice is patting Donald Trump on the shoulder as Donald Trump cries.,incongruent,Alice,Donald Trump,indirect,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is comforting Donald Trump.,Alice is playfully mentioning an embarrassing thing that Donald Trump did.,incongruent,Alice,Donald Trump,indirect,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is teasing Mom.,Alice is playfully mentioning an embarrassing thing that Mom did.,congruent,Alice,Mom,indirect,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is comforting Mom.,Alice is patting Mom on the shoulder as Mom cries.,congruent,Alice,Mom,indirect,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is teasing Mom.,Alice is patting Mom on the shoulder as Mom cries.,incongruent,Alice,Mom,indirect,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is comforting Mom.,Alice is playfully mentioning an embarrassing thing that Mom did.,incongruent,Alice,Mom,indirect,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is teasing Dad.,Alice is playfully mentioning an embarrassing thing that Dad did.,congruent,Alice,Dad,indirect,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is comforting Dad.,Alice is patting Dad on the shoulder as Dad cries.,congruent,Alice,Dad,indirect,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is teasing Dad.,Alice is patting Dad on the shoulder as Dad cries.,incongruent,Alice,Dad,indirect,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is comforting Dad.,Alice is playfully mentioning an embarrassing thing that Dad did.,incongruent,Alice,Dad,indirect,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is teasing Charlie.,Bob is playfully mentioning an embarrassing thing that Charlie did.,congruent,Bob,Charlie,indirect,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is comforting Charlie.,Bob is patting Charlie on the shoulder as Charlie cries.,congruent,Bob,Charlie,indirect,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is teasing Charlie.,Bob is patting Charlie on the shoulder as Charlie cries.,incongruent,Bob,Charlie,indirect,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is comforting Charlie.,Bob is playfully mentioning an embarrassing thing that Charlie did.,incongruent,Bob,Charlie,indirect,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is teasing Barack Obama.,Bob is playfully mentioning an embarrassing thing that Barack Obama did.,congruent,Bob,Barack Obama,indirect,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is comforting Barack Obama.,Bob is patting Barack Obama on the shoulder as Barack Obama cries.,congruent,Bob,Barack Obama,indirect,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is teasing Barack Obama.,Bob is patting Barack Obama on the shoulder as Barack Obama cries.,incongruent,Bob,Barack Obama,indirect,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is comforting Barack Obama.,Bob is playfully mentioning an embarrassing thing that Barack Obama did.,incongruent,Bob,Barack Obama,indirect,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is teasing Donald Trump.,Bob is playfully mentioning an embarrassing thing that Donald Trump did.,congruent,Bob,Donald Trump,indirect,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is comforting Donald Trump.,Bob is patting Donald Trump on the shoulder as Donald Trump cries.,congruent,Bob,Donald Trump,indirect,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is teasing Donald Trump.,Bob is patting Donald Trump on the shoulder as Donald Trump cries.,incongruent,Bob,Donald Trump,indirect,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is comforting Donald Trump.,Bob is playfully mentioning an embarrassing thing that Donald Trump did.,incongruent,Bob,Donald Trump,indirect,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is teasing Mom.,Bob is playfully mentioning an embarrassing thing that Mom did.,congruent,Bob,Mom,indirect,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is comforting Mom.,Bob is patting Mom on the shoulder as Mom cries.,congruent,Bob,Mom,indirect,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is teasing Mom.,Bob is patting Mom on the shoulder as Mom cries.,incongruent,Bob,Mom,indirect,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is comforting Mom.,Bob is playfully mentioning an embarrassing thing that Mom did.,incongruent,Bob,Mom,indirect,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is teasing Dad.,Bob is playfully mentioning an embarrassing thing that Dad did.,congruent,Bob,Dad,indirect,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is comforting Dad.,Bob is patting Dad on the shoulder as Dad cries.,congruent,Bob,Dad,indirect,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is teasing Dad.,Bob is patting Dad on the shoulder as Dad cries.,incongruent,Bob,Dad,indirect,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is comforting Dad.,Bob is playfully mentioning an embarrassing thing that Dad did.,incongruent,Bob,Dad,indirect,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is teasing Barack Obama.,Charlie is playfully mentioning an embarrassing thing that Barack Obama did.,congruent,Charlie,Barack Obama,indirect,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is comforting Barack Obama.,Charlie is patting Barack Obama on the shoulder as Barack Obama cries.,congruent,Charlie,Barack Obama,indirect,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is teasing Barack Obama.,Charlie is patting Barack Obama on the shoulder as Barack Obama cries.,incongruent,Charlie,Barack Obama,indirect,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is comforting Barack Obama.,Charlie is playfully mentioning an embarrassing thing that Barack Obama did.,incongruent,Charlie,Barack Obama,indirect,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is teasing Donald Trump.,Charlie is playfully mentioning an embarrassing thing that Donald Trump did.,congruent,Charlie,Donald Trump,indirect,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is comforting Donald Trump.,Charlie is patting Donald Trump on the shoulder as Donald Trump cries.,congruent,Charlie,Donald Trump,indirect,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is teasing Donald Trump.,Charlie is patting Donald Trump on the shoulder as Donald Trump cries.,incongruent,Charlie,Donald Trump,indirect,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is comforting Donald Trump.,Charlie is playfully mentioning an embarrassing thing that Donald Trump did.,incongruent,Charlie,Donald Trump,indirect,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is teasing Mom.,Charlie is playfully mentioning an embarrassing thing that Mom did.,congruent,Charlie,Mom,indirect,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is comforting Mom.,Charlie is patting Mom on the shoulder as Mom cries.,congruent,Charlie,Mom,indirect,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is teasing Mom.,Charlie is patting Mom on the shoulder as Mom cries.,incongruent,Charlie,Mom,indirect,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is comforting Mom.,Charlie is playfully mentioning an embarrassing thing that Mom did.,incongruent,Charlie,Mom,indirect,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is teasing Dad.,Charlie is playfully mentioning an embarrassing thing that Dad did.,congruent,Charlie,Dad,indirect,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is comforting Dad.,Charlie is patting Dad on the shoulder as Dad cries.,congruent,Charlie,Dad,indirect,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is teasing Dad.,Charlie is patting Dad on the shoulder as Dad cries.,incongruent,Charlie,Dad,indirect,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is comforting Dad.,Charlie is playfully mentioning an embarrassing thing that Dad did.,incongruent,Charlie,Dad,indirect,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is teasing Donald Trump.,Barack Obama is playfully mentioning an embarrassing thing that Donald Trump did.,congruent,Barack Obama,Donald Trump,indirect,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is comforting Donald Trump.,Barack Obama is patting Donald Trump on the shoulder as Donald Trump cries.,congruent,Barack Obama,Donald Trump,indirect,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is teasing Donald Trump.,Barack Obama is patting Donald Trump on the shoulder as Donald Trump cries.,incongruent,Barack Obama,Donald Trump,indirect,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is comforting Donald Trump.,Barack Obama is playfully mentioning an embarrassing thing that Donald Trump did.,incongruent,Barack Obama,Donald Trump,indirect,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is teasing Mom.,Barack Obama is playfully mentioning an embarrassing thing that Mom did.,congruent,Barack Obama,Mom,indirect,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is comforting Mom.,Barack Obama is patting Mom on the shoulder as Mom cries.,congruent,Barack Obama,Mom,indirect,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is teasing Mom.,Barack Obama is patting Mom on the shoulder as Mom cries.,incongruent,Barack Obama,Mom,indirect,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is comforting Mom.,Barack Obama is playfully mentioning an embarrassing thing that Mom did.,incongruent,Barack Obama,Mom,indirect,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is teasing Dad.,Barack Obama is playfully mentioning an embarrassing thing that Dad did.,congruent,Barack Obama,Dad,indirect,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is comforting Dad.,Barack Obama is patting Dad on the shoulder as Dad cries.,congruent,Barack Obama,Dad,indirect,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is teasing Dad.,Barack Obama is patting Dad on the shoulder as Dad cries.,incongruent,Barack Obama,Dad,indirect,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is comforting Dad.,Barack Obama is playfully mentioning an embarrassing thing that Dad did.,incongruent,Barack Obama,Dad,indirect,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is teasing Mom.,Donald Trump is playfully mentioning an embarrassing thing that Mom did.,congruent,Donald Trump,Mom,indirect,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is comforting Mom.,Donald Trump is patting Mom on the shoulder as Mom cries.,congruent,Donald Trump,Mom,indirect,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is teasing Mom.,Donald Trump is patting Mom on the shoulder as Mom cries.,incongruent,Donald Trump,Mom,indirect,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is comforting Mom.,Donald Trump is playfully mentioning an embarrassing thing that Mom did.,incongruent,Donald Trump,Mom,indirect,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is teasing Dad.,Donald Trump is playfully mentioning an embarrassing thing that Dad did.,congruent,Donald Trump,Dad,indirect,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is comforting Dad.,Donald Trump is patting Dad on the shoulder as Dad cries.,congruent,Donald Trump,Dad,indirect,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is teasing Dad.,Donald Trump is patting Dad on the shoulder as Dad cries.,incongruent,Donald Trump,Dad,indirect,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is comforting Dad.,Donald Trump is playfully mentioning an embarrassing thing that Dad did.,incongruent,Donald Trump,Dad,indirect,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is teasing Dad.,Mom is playfully mentioning an embarrassing thing that Dad did.,congruent,Mom,Dad,indirect,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is comforting Dad.,Mom is patting Dad on the shoulder as Dad cries.,congruent,Mom,Dad,indirect,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is teasing Dad.,Mom is patting Dad on the shoulder as Dad cries.,incongruent,Mom,Dad,indirect,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is comforting Dad.,Mom is playfully mentioning an embarrassing thing that Dad did.,incongruent,Mom,Dad,indirect,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is teasing Bob.,Alice is making light-hearted jokes at Bob’s expense.,congruent,Alice,Bob,direct,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is comforting Bob.,Alice is trying to make Bob feel better.,congruent,Alice,Bob,direct,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is teasing Bob.,Alice is trying to make Bob feel better.,incongruent,Alice,Bob,direct,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is comforting Bob.,Alice is making light-hearted jokes at Bob’s expense.,incongruent,Alice,Bob,direct,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is teasing Charlie.,Alice is making light-hearted jokes at Charlie’s expense.,congruent,Alice,Charlie,direct,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is comforting Charlie.,Alice is trying to make Charlie feel better.,congruent,Alice,Charlie,direct,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is teasing Charlie.,Alice is trying to make Charlie feel better.,incongruent,Alice,Charlie,direct,teasing_comforting
+Alice and Charlie are sitting at a table having a conversation. Alice is comforting Charlie.,Alice is making light-hearted jokes at Charlie’s expense.,incongruent,Alice,Charlie,direct,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is teasing Barack Obama.,Alice is making light-hearted jokes at Barack Obama’s expense.,congruent,Alice,Barack Obama,direct,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is comforting Barack Obama.,Alice is trying to make Barack Obama feel better.,congruent,Alice,Barack Obama,direct,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is teasing Barack Obama.,Alice is trying to make Barack Obama feel better.,incongruent,Alice,Barack Obama,direct,teasing_comforting
+Alice and Barack Obama are sitting at a table having a conversation. Alice is comforting Barack Obama.,Alice is making light-hearted jokes at Barack Obama’s expense.,incongruent,Alice,Barack Obama,direct,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is teasing Donald Trump.,Alice is making light-hearted jokes at Donald Trump’s expense.,congruent,Alice,Donald Trump,direct,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is comforting Donald Trump.,Alice is trying to make Donald Trump feel better.,congruent,Alice,Donald Trump,direct,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is teasing Donald Trump.,Alice is trying to make Donald Trump feel better.,incongruent,Alice,Donald Trump,direct,teasing_comforting
+Alice and Donald Trump are sitting at a table having a conversation. Alice is comforting Donald Trump.,Alice is making light-hearted jokes at Donald Trump’s expense.,incongruent,Alice,Donald Trump,direct,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is teasing Mom.,Alice is making light-hearted jokes at Mom’s expense.,congruent,Alice,Mom,direct,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is comforting Mom.,Alice is trying to make Mom feel better.,congruent,Alice,Mom,direct,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is teasing Mom.,Alice is trying to make Mom feel better.,incongruent,Alice,Mom,direct,teasing_comforting
+Alice and Mom are sitting at a table having a conversation. Alice is comforting Mom.,Alice is making light-hearted jokes at Mom’s expense.,incongruent,Alice,Mom,direct,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is teasing Dad.,Alice is making light-hearted jokes at Dad’s expense.,congruent,Alice,Dad,direct,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is comforting Dad.,Alice is trying to make Dad feel better.,congruent,Alice,Dad,direct,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is teasing Dad.,Alice is trying to make Dad feel better.,incongruent,Alice,Dad,direct,teasing_comforting
+Alice and Dad are sitting at a table having a conversation. Alice is comforting Dad.,Alice is making light-hearted jokes at Dad’s expense.,incongruent,Alice,Dad,direct,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is teasing Charlie.,Bob is making light-hearted jokes at Charlie’s expense.,congruent,Bob,Charlie,direct,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is comforting Charlie.,Bob is trying to make Charlie feel better.,congruent,Bob,Charlie,direct,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is teasing Charlie.,Bob is trying to make Charlie feel better.,incongruent,Bob,Charlie,direct,teasing_comforting
+Bob and Charlie are sitting at a table having a conversation. Bob is comforting Charlie.,Bob is making light-hearted jokes at Charlie’s expense.,incongruent,Bob,Charlie,direct,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is teasing Barack Obama.,Bob is making light-hearted jokes at Barack Obama’s expense.,congruent,Bob,Barack Obama,direct,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is comforting Barack Obama.,Bob is trying to make Barack Obama feel better.,congruent,Bob,Barack Obama,direct,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is teasing Barack Obama.,Bob is trying to make Barack Obama feel better.,incongruent,Bob,Barack Obama,direct,teasing_comforting
+Bob and Barack Obama are sitting at a table having a conversation. Bob is comforting Barack Obama.,Bob is making light-hearted jokes at Barack Obama’s expense.,incongruent,Bob,Barack Obama,direct,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is teasing Donald Trump.,Bob is making light-hearted jokes at Donald Trump’s expense.,congruent,Bob,Donald Trump,direct,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is comforting Donald Trump.,Bob is trying to make Donald Trump feel better.,congruent,Bob,Donald Trump,direct,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is teasing Donald Trump.,Bob is trying to make Donald Trump feel better.,incongruent,Bob,Donald Trump,direct,teasing_comforting
+Bob and Donald Trump are sitting at a table having a conversation. Bob is comforting Donald Trump.,Bob is making light-hearted jokes at Donald Trump’s expense.,incongruent,Bob,Donald Trump,direct,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is teasing Mom.,Bob is making light-hearted jokes at Mom’s expense.,congruent,Bob,Mom,direct,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is comforting Mom.,Bob is trying to make Mom feel better.,congruent,Bob,Mom,direct,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is teasing Mom.,Bob is trying to make Mom feel better.,incongruent,Bob,Mom,direct,teasing_comforting
+Bob and Mom are sitting at a table having a conversation. Bob is comforting Mom.,Bob is making light-hearted jokes at Mom’s expense.,incongruent,Bob,Mom,direct,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is teasing Dad.,Bob is making light-hearted jokes at Dad’s expense.,congruent,Bob,Dad,direct,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is comforting Dad.,Bob is trying to make Dad feel better.,congruent,Bob,Dad,direct,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is teasing Dad.,Bob is trying to make Dad feel better.,incongruent,Bob,Dad,direct,teasing_comforting
+Bob and Dad are sitting at a table having a conversation. Bob is comforting Dad.,Bob is making light-hearted jokes at Dad’s expense.,incongruent,Bob,Dad,direct,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is teasing Barack Obama.,Charlie is making light-hearted jokes at Barack Obama’s expense.,congruent,Charlie,Barack Obama,direct,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is comforting Barack Obama.,Charlie is trying to make Barack Obama feel better.,congruent,Charlie,Barack Obama,direct,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is teasing Barack Obama.,Charlie is trying to make Barack Obama feel better.,incongruent,Charlie,Barack Obama,direct,teasing_comforting
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is comforting Barack Obama.,Charlie is making light-hearted jokes at Barack Obama’s expense.,incongruent,Charlie,Barack Obama,direct,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is teasing Donald Trump.,Charlie is making light-hearted jokes at Donald Trump’s expense.,congruent,Charlie,Donald Trump,direct,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is comforting Donald Trump.,Charlie is trying to make Donald Trump feel better.,congruent,Charlie,Donald Trump,direct,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is teasing Donald Trump.,Charlie is trying to make Donald Trump feel better.,incongruent,Charlie,Donald Trump,direct,teasing_comforting
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is comforting Donald Trump.,Charlie is making light-hearted jokes at Donald Trump’s expense.,incongruent,Charlie,Donald Trump,direct,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is teasing Mom.,Charlie is making light-hearted jokes at Mom’s expense.,congruent,Charlie,Mom,direct,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is comforting Mom.,Charlie is trying to make Mom feel better.,congruent,Charlie,Mom,direct,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is teasing Mom.,Charlie is trying to make Mom feel better.,incongruent,Charlie,Mom,direct,teasing_comforting
+Charlie and Mom are sitting at a table having a conversation. Charlie is comforting Mom.,Charlie is making light-hearted jokes at Mom’s expense.,incongruent,Charlie,Mom,direct,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is teasing Dad.,Charlie is making light-hearted jokes at Dad’s expense.,congruent,Charlie,Dad,direct,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is comforting Dad.,Charlie is trying to make Dad feel better.,congruent,Charlie,Dad,direct,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is teasing Dad.,Charlie is trying to make Dad feel better.,incongruent,Charlie,Dad,direct,teasing_comforting
+Charlie and Dad are sitting at a table having a conversation. Charlie is comforting Dad.,Charlie is making light-hearted jokes at Dad’s expense.,incongruent,Charlie,Dad,direct,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is teasing Donald Trump.,Barack Obama is making light-hearted jokes at Donald Trump’s expense.,congruent,Barack Obama,Donald Trump,direct,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is comforting Donald Trump.,Barack Obama is trying to make Donald Trump feel better.,congruent,Barack Obama,Donald Trump,direct,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is teasing Donald Trump.,Barack Obama is trying to make Donald Trump feel better.,incongruent,Barack Obama,Donald Trump,direct,teasing_comforting
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is comforting Donald Trump.,Barack Obama is making light-hearted jokes at Donald Trump’s expense.,incongruent,Barack Obama,Donald Trump,direct,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is teasing Mom.,Barack Obama is making light-hearted jokes at Mom’s expense.,congruent,Barack Obama,Mom,direct,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is comforting Mom.,Barack Obama is trying to make Mom feel better.,congruent,Barack Obama,Mom,direct,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is teasing Mom.,Barack Obama is trying to make Mom feel better.,incongruent,Barack Obama,Mom,direct,teasing_comforting
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is comforting Mom.,Barack Obama is making light-hearted jokes at Mom’s expense.,incongruent,Barack Obama,Mom,direct,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is teasing Dad.,Barack Obama is making light-hearted jokes at Dad’s expense.,congruent,Barack Obama,Dad,direct,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is comforting Dad.,Barack Obama is trying to make Dad feel better.,congruent,Barack Obama,Dad,direct,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is teasing Dad.,Barack Obama is trying to make Dad feel better.,incongruent,Barack Obama,Dad,direct,teasing_comforting
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is comforting Dad.,Barack Obama is making light-hearted jokes at Dad’s expense.,incongruent,Barack Obama,Dad,direct,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is teasing Mom.,Donald Trump is making light-hearted jokes at Mom’s expense.,congruent,Donald Trump,Mom,direct,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is comforting Mom.,Donald Trump is trying to make Mom feel better.,congruent,Donald Trump,Mom,direct,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is teasing Mom.,Donald Trump is trying to make Mom feel better.,incongruent,Donald Trump,Mom,direct,teasing_comforting
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is comforting Mom.,Donald Trump is making light-hearted jokes at Mom’s expense.,incongruent,Donald Trump,Mom,direct,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is teasing Dad.,Donald Trump is making light-hearted jokes at Dad’s expense.,congruent,Donald Trump,Dad,direct,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is comforting Dad.,Donald Trump is trying to make Dad feel better.,congruent,Donald Trump,Dad,direct,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is teasing Dad.,Donald Trump is trying to make Dad feel better.,incongruent,Donald Trump,Dad,direct,teasing_comforting
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is comforting Dad.,Donald Trump is making light-hearted jokes at Dad’s expense.,incongruent,Donald Trump,Dad,direct,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is teasing Dad.,Mom is making light-hearted jokes at Dad’s expense.,congruent,Mom,Dad,direct,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is comforting Dad.,Mom is trying to make Dad feel better.,congruent,Mom,Dad,direct,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is teasing Dad.,Mom is trying to make Dad feel better.,incongruent,Mom,Dad,direct,teasing_comforting
+Mom and Dad are sitting at a table having a conversation. Mom is comforting Dad.,Mom is making light-hearted jokes at Dad’s expense.,incongruent,Mom,Dad,direct,teasing_comforting
+Alice and Bob are sitting at a table having a conversation. Alice is flirting with Bob.,Alice is giggling each time Bob says something.,congruent,Alice,Bob,indirect,flirting_envying
+Alice and Bob are sitting at a table having a conversation. Alice is envying Bob.,Alice tries to act nonchalant when Bob talks about their promotion.,congruent,Alice,Bob,indirect,flirting_envying
+Alice and Bob are sitting at a table having a conversation. Alice is flirting with Bob.,Alice tries to act nonchalant when Bob talks about their promotion.,incongruent,Alice,Bob,indirect,flirting_envying
+Alice and Bob are sitting at a table having a conversation. Alice is envying Bob.,Alice is giggling each time Bob says something.,incongruent,Alice,Bob,indirect,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is flirting with Charlie.,Alice is giggling each time Charlie says something.,congruent,Alice,Charlie,indirect,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is envying Charlie.,Alice tries to act nonchalant when Charlie talks about their promotion.,congruent,Alice,Charlie,indirect,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is flirting with Charlie.,Alice tries to act nonchalant when Charlie talks about their promotion.,incongruent,Alice,Charlie,indirect,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is envying Charlie.,Alice is giggling each time Charlie says something.,incongruent,Alice,Charlie,indirect,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is flirting with Barack Obama.,Alice is giggling each time Barack Obama says something.,congruent,Alice,Barack Obama,indirect,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is envying Barack Obama.,Alice tries to act nonchalant when Barack Obama talks about their promotion.,congruent,Alice,Barack Obama,indirect,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is flirting with Barack Obama.,Alice tries to act nonchalant when Barack Obama talks about their promotion.,incongruent,Alice,Barack Obama,indirect,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is envying Barack Obama.,Alice is giggling each time Barack Obama says something.,incongruent,Alice,Barack Obama,indirect,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is flirting with Donald Trump.,Alice is giggling each time Donald Trump says something.,congruent,Alice,Donald Trump,indirect,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is envying Donald Trump.,Alice tries to act nonchalant when Donald Trump talks about their promotion.,congruent,Alice,Donald Trump,indirect,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is flirting with Donald Trump.,Alice tries to act nonchalant when Donald Trump talks about their promotion.,incongruent,Alice,Donald Trump,indirect,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is envying Donald Trump.,Alice is giggling each time Donald Trump says something.,incongruent,Alice,Donald Trump,indirect,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is flirting with Mom.,Alice is giggling each time Mom says something.,congruent,Alice,Mom,indirect,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is envying Mom.,Alice tries to act nonchalant when Mom talks about their promotion.,congruent,Alice,Mom,indirect,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is flirting with Mom.,Alice tries to act nonchalant when Mom talks about their promotion.,incongruent,Alice,Mom,indirect,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is envying Mom.,Alice is giggling each time Mom says something.,incongruent,Alice,Mom,indirect,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is flirting with Dad.,Alice is giggling each time Dad says something.,congruent,Alice,Dad,indirect,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is envying Dad.,Alice tries to act nonchalant when Dad talks about their promotion.,congruent,Alice,Dad,indirect,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is flirting with Dad.,Alice tries to act nonchalant when Dad talks about their promotion.,incongruent,Alice,Dad,indirect,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is envying Dad.,Alice is giggling each time Dad says something.,incongruent,Alice,Dad,indirect,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is flirting with Charlie.,Bob is giggling each time Charlie says something.,congruent,Bob,Charlie,indirect,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is envying Charlie.,Bob tries to act nonchalant when Charlie talks about their promotion.,congruent,Bob,Charlie,indirect,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is flirting with Charlie.,Bob tries to act nonchalant when Charlie talks about their promotion.,incongruent,Bob,Charlie,indirect,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is envying Charlie.,Bob is giggling each time Charlie says something.,incongruent,Bob,Charlie,indirect,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is flirting with Barack Obama.,Bob is giggling each time Barack Obama says something.,congruent,Bob,Barack Obama,indirect,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is envying Barack Obama.,Bob tries to act nonchalant when Barack Obama talks about their promotion.,congruent,Bob,Barack Obama,indirect,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is flirting with Barack Obama.,Bob tries to act nonchalant when Barack Obama talks about their promotion.,incongruent,Bob,Barack Obama,indirect,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is envying Barack Obama.,Bob is giggling each time Barack Obama says something.,incongruent,Bob,Barack Obama,indirect,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is flirting with Donald Trump.,Bob is giggling each time Donald Trump says something.,congruent,Bob,Donald Trump,indirect,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is envying Donald Trump.,Bob tries to act nonchalant when Donald Trump talks about their promotion.,congruent,Bob,Donald Trump,indirect,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is flirting with Donald Trump.,Bob tries to act nonchalant when Donald Trump talks about their promotion.,incongruent,Bob,Donald Trump,indirect,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is envying Donald Trump.,Bob is giggling each time Donald Trump says something.,incongruent,Bob,Donald Trump,indirect,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is flirting with Mom.,Bob is giggling each time Mom says something.,congruent,Bob,Mom,indirect,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is envying Mom.,Bob tries to act nonchalant when Mom talks about their promotion.,congruent,Bob,Mom,indirect,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is flirting with Mom.,Bob tries to act nonchalant when Mom talks about their promotion.,incongruent,Bob,Mom,indirect,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is envying Mom.,Bob is giggling each time Mom says something.,incongruent,Bob,Mom,indirect,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is flirting with Dad.,Bob is giggling each time Dad says something.,congruent,Bob,Dad,indirect,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is envying Dad.,Bob tries to act nonchalant when Dad talks about their promotion.,congruent,Bob,Dad,indirect,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is flirting with Dad.,Bob tries to act nonchalant when Dad talks about their promotion.,incongruent,Bob,Dad,indirect,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is envying Dad.,Bob is giggling each time Dad says something.,incongruent,Bob,Dad,indirect,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is flirting with Barack Obama.,Charlie is giggling each time Barack Obama says something.,congruent,Charlie,Barack Obama,indirect,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is envying Barack Obama.,Charlie tries to act nonchalant when Barack Obama talks about their promotion.,congruent,Charlie,Barack Obama,indirect,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is flirting with Barack Obama.,Charlie tries to act nonchalant when Barack Obama talks about their promotion.,incongruent,Charlie,Barack Obama,indirect,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is envying Barack Obama.,Charlie is giggling each time Barack Obama says something.,incongruent,Charlie,Barack Obama,indirect,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is flirting with Donald Trump.,Charlie is giggling each time Donald Trump says something.,congruent,Charlie,Donald Trump,indirect,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is envying Donald Trump.,Charlie tries to act nonchalant when Donald Trump talks about their promotion.,congruent,Charlie,Donald Trump,indirect,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is flirting with Donald Trump.,Charlie tries to act nonchalant when Donald Trump talks about their promotion.,incongruent,Charlie,Donald Trump,indirect,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is envying Donald Trump.,Charlie is giggling each time Donald Trump says something.,incongruent,Charlie,Donald Trump,indirect,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is flirting with Mom.,Charlie is giggling each time Mom says something.,congruent,Charlie,Mom,indirect,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is envying Mom.,Charlie tries to act nonchalant when Mom talks about their promotion.,congruent,Charlie,Mom,indirect,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is flirting with Mom.,Charlie tries to act nonchalant when Mom talks about their promotion.,incongruent,Charlie,Mom,indirect,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is envying Mom.,Charlie is giggling each time Mom says something.,incongruent,Charlie,Mom,indirect,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is flirting with Dad.,Charlie is giggling each time Dad says something.,congruent,Charlie,Dad,indirect,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is envying Dad.,Charlie tries to act nonchalant when Dad talks about their promotion.,congruent,Charlie,Dad,indirect,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is flirting with Dad.,Charlie tries to act nonchalant when Dad talks about their promotion.,incongruent,Charlie,Dad,indirect,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is envying Dad.,Charlie is giggling each time Dad says something.,incongruent,Charlie,Dad,indirect,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is flirting with Donald Trump.,Barack Obama is giggling each time Donald Trump says something.,congruent,Barack Obama,Donald Trump,indirect,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is envying Donald Trump.,Barack Obama tries to act nonchalant when Donald Trump talks about their promotion.,congruent,Barack Obama,Donald Trump,indirect,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is flirting with Donald Trump.,Barack Obama tries to act nonchalant when Donald Trump talks about their promotion.,incongruent,Barack Obama,Donald Trump,indirect,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is envying Donald Trump.,Barack Obama is giggling each time Donald Trump says something.,incongruent,Barack Obama,Donald Trump,indirect,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is flirting with Mom.,Barack Obama is giggling each time Mom says something.,congruent,Barack Obama,Mom,indirect,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is envying Mom.,Barack Obama tries to act nonchalant when Mom talks about their promotion.,congruent,Barack Obama,Mom,indirect,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is flirting with Mom.,Barack Obama tries to act nonchalant when Mom talks about their promotion.,incongruent,Barack Obama,Mom,indirect,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is envying Mom.,Barack Obama is giggling each time Mom says something.,incongruent,Barack Obama,Mom,indirect,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is flirting with Dad.,Barack Obama is giggling each time Dad says something.,congruent,Barack Obama,Dad,indirect,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is envying Dad.,Barack Obama tries to act nonchalant when Dad talks about their promotion.,congruent,Barack Obama,Dad,indirect,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is flirting with Dad.,Barack Obama tries to act nonchalant when Dad talks about their promotion.,incongruent,Barack Obama,Dad,indirect,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is envying Dad.,Barack Obama is giggling each time Dad says something.,incongruent,Barack Obama,Dad,indirect,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is flirting with Mom.,Donald Trump is giggling each time Mom says something.,congruent,Donald Trump,Mom,indirect,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is envying Mom.,Donald Trump tries to act nonchalant when Mom talks about their promotion.,congruent,Donald Trump,Mom,indirect,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is flirting with Mom.,Donald Trump tries to act nonchalant when Mom talks about their promotion.,incongruent,Donald Trump,Mom,indirect,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is envying Mom.,Donald Trump is giggling each time Mom says something.,incongruent,Donald Trump,Mom,indirect,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is flirting with Dad.,Donald Trump is giggling each time Dad says something.,congruent,Donald Trump,Dad,indirect,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is envying Dad.,Donald Trump tries to act nonchalant when Dad talks about their promotion.,congruent,Donald Trump,Dad,indirect,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is flirting with Dad.,Donald Trump tries to act nonchalant when Dad talks about their promotion.,incongruent,Donald Trump,Dad,indirect,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is envying Dad.,Donald Trump is giggling each time Dad says something.,incongruent,Donald Trump,Dad,indirect,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is flirting with Dad.,Mom is giggling each time Dad says something.,congruent,Mom,Dad,indirect,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is envying Dad.,Mom tries to act nonchalant when Dad talks about their promotion.,congruent,Mom,Dad,indirect,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is flirting with Dad.,Mom tries to act nonchalant when Dad talks about their promotion.,incongruent,Mom,Dad,indirect,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is envying Dad.,Mom is giggling each time Dad says something.,incongruent,Mom,Dad,indirect,flirting_envying
+Alice and Bob are sitting at a table having a conversation. Alice is flirting with Bob.,Alice is playfully signaling romantic interest towards Bob.,congruent,Alice,Bob,direct,flirting_envying
+Alice and Bob are sitting at a table having a conversation. Alice is envying Bob.,Alice wishes they were in Bob's place.,congruent,Alice,Bob,direct,flirting_envying
+Alice and Bob are sitting at a table having a conversation. Alice is flirting with Bob.,Alice wishes they were in Bob's place.,incongruent,Alice,Bob,direct,flirting_envying
+Alice and Bob are sitting at a table having a conversation. Alice is envying Bob.,Alice is playfully signaling romantic interest towards Bob.,incongruent,Alice,Bob,direct,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is flirting with Charlie.,Alice is playfully signaling romantic interest towards Charlie.,congruent,Alice,Charlie,direct,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is envying Charlie.,Alice wishes they were in Charlie's place.,congruent,Alice,Charlie,direct,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is flirting with Charlie.,Alice wishes they were in Charlie's place.,incongruent,Alice,Charlie,direct,flirting_envying
+Alice and Charlie are sitting at a table having a conversation. Alice is envying Charlie.,Alice is playfully signaling romantic interest towards Charlie.,incongruent,Alice,Charlie,direct,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is flirting with Barack Obama.,Alice is playfully signaling romantic interest towards Barack Obama.,congruent,Alice,Barack Obama,direct,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is envying Barack Obama.,Alice wishes they were in Barack Obama's place.,congruent,Alice,Barack Obama,direct,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is flirting with Barack Obama.,Alice wishes they were in Barack Obama's place.,incongruent,Alice,Barack Obama,direct,flirting_envying
+Alice and Barack Obama are sitting at a table having a conversation. Alice is envying Barack Obama.,Alice is playfully signaling romantic interest towards Barack Obama.,incongruent,Alice,Barack Obama,direct,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is flirting with Donald Trump.,Alice is playfully signaling romantic interest towards Donald Trump.,congruent,Alice,Donald Trump,direct,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is envying Donald Trump.,Alice wishes they were in Donald Trump's place.,congruent,Alice,Donald Trump,direct,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is flirting with Donald Trump.,Alice wishes they were in Donald Trump's place.,incongruent,Alice,Donald Trump,direct,flirting_envying
+Alice and Donald Trump are sitting at a table having a conversation. Alice is envying Donald Trump.,Alice is playfully signaling romantic interest towards Donald Trump.,incongruent,Alice,Donald Trump,direct,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is flirting with Mom.,Alice is playfully signaling romantic interest towards Mom.,congruent,Alice,Mom,direct,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is envying Mom.,Alice wishes they were in Mom's place.,congruent,Alice,Mom,direct,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is flirting with Mom.,Alice wishes they were in Mom's place.,incongruent,Alice,Mom,direct,flirting_envying
+Alice and Mom are sitting at a table having a conversation. Alice is envying Mom.,Alice is playfully signaling romantic interest towards Mom.,incongruent,Alice,Mom,direct,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is flirting with Dad.,Alice is playfully signaling romantic interest towards Dad.,congruent,Alice,Dad,direct,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is envying Dad.,Alice wishes they were in Dad's place.,congruent,Alice,Dad,direct,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is flirting with Dad.,Alice wishes they were in Dad's place.,incongruent,Alice,Dad,direct,flirting_envying
+Alice and Dad are sitting at a table having a conversation. Alice is envying Dad.,Alice is playfully signaling romantic interest towards Dad.,incongruent,Alice,Dad,direct,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is flirting with Charlie.,Bob is playfully signaling romantic interest towards Charlie.,congruent,Bob,Charlie,direct,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is envying Charlie.,Bob wishes they were in Charlie's place.,congruent,Bob,Charlie,direct,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is flirting with Charlie.,Bob wishes they were in Charlie's place.,incongruent,Bob,Charlie,direct,flirting_envying
+Bob and Charlie are sitting at a table having a conversation. Bob is envying Charlie.,Bob is playfully signaling romantic interest towards Charlie.,incongruent,Bob,Charlie,direct,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is flirting with Barack Obama.,Bob is playfully signaling romantic interest towards Barack Obama.,congruent,Bob,Barack Obama,direct,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is envying Barack Obama.,Bob wishes they were in Barack Obama's place.,congruent,Bob,Barack Obama,direct,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is flirting with Barack Obama.,Bob wishes they were in Barack Obama's place.,incongruent,Bob,Barack Obama,direct,flirting_envying
+Bob and Barack Obama are sitting at a table having a conversation. Bob is envying Barack Obama.,Bob is playfully signaling romantic interest towards Barack Obama.,incongruent,Bob,Barack Obama,direct,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is flirting with Donald Trump.,Bob is playfully signaling romantic interest towards Donald Trump.,congruent,Bob,Donald Trump,direct,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is envying Donald Trump.,Bob wishes they were in Donald Trump's place.,congruent,Bob,Donald Trump,direct,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is flirting with Donald Trump.,Bob wishes they were in Donald Trump's place.,incongruent,Bob,Donald Trump,direct,flirting_envying
+Bob and Donald Trump are sitting at a table having a conversation. Bob is envying Donald Trump.,Bob is playfully signaling romantic interest towards Donald Trump.,incongruent,Bob,Donald Trump,direct,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is flirting with Mom.,Bob is playfully signaling romantic interest towards Mom.,congruent,Bob,Mom,direct,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is envying Mom.,Bob wishes they were in Mom's place.,congruent,Bob,Mom,direct,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is flirting with Mom.,Bob wishes they were in Mom's place.,incongruent,Bob,Mom,direct,flirting_envying
+Bob and Mom are sitting at a table having a conversation. Bob is envying Mom.,Bob is playfully signaling romantic interest towards Mom.,incongruent,Bob,Mom,direct,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is flirting with Dad.,Bob is playfully signaling romantic interest towards Dad.,congruent,Bob,Dad,direct,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is envying Dad.,Bob wishes they were in Dad's place.,congruent,Bob,Dad,direct,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is flirting with Dad.,Bob wishes they were in Dad's place.,incongruent,Bob,Dad,direct,flirting_envying
+Bob and Dad are sitting at a table having a conversation. Bob is envying Dad.,Bob is playfully signaling romantic interest towards Dad.,incongruent,Bob,Dad,direct,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is flirting with Barack Obama.,Charlie is playfully signaling romantic interest towards Barack Obama.,congruent,Charlie,Barack Obama,direct,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is envying Barack Obama.,Charlie wishes they were in Barack Obama's place.,congruent,Charlie,Barack Obama,direct,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is flirting with Barack Obama.,Charlie wishes they were in Barack Obama's place.,incongruent,Charlie,Barack Obama,direct,flirting_envying
+Charlie and Barack Obama are sitting at a table having a conversation. Charlie is envying Barack Obama.,Charlie is playfully signaling romantic interest towards Barack Obama.,incongruent,Charlie,Barack Obama,direct,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is flirting with Donald Trump.,Charlie is playfully signaling romantic interest towards Donald Trump.,congruent,Charlie,Donald Trump,direct,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is envying Donald Trump.,Charlie wishes they were in Donald Trump's place.,congruent,Charlie,Donald Trump,direct,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is flirting with Donald Trump.,Charlie wishes they were in Donald Trump's place.,incongruent,Charlie,Donald Trump,direct,flirting_envying
+Charlie and Donald Trump are sitting at a table having a conversation. Charlie is envying Donald Trump.,Charlie is playfully signaling romantic interest towards Donald Trump.,incongruent,Charlie,Donald Trump,direct,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is flirting with Mom.,Charlie is playfully signaling romantic interest towards Mom.,congruent,Charlie,Mom,direct,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is envying Mom.,Charlie wishes they were in Mom's place.,congruent,Charlie,Mom,direct,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is flirting with Mom.,Charlie wishes they were in Mom's place.,incongruent,Charlie,Mom,direct,flirting_envying
+Charlie and Mom are sitting at a table having a conversation. Charlie is envying Mom.,Charlie is playfully signaling romantic interest towards Mom.,incongruent,Charlie,Mom,direct,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is flirting with Dad.,Charlie is playfully signaling romantic interest towards Dad.,congruent,Charlie,Dad,direct,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is envying Dad.,Charlie wishes they were in Dad's place.,congruent,Charlie,Dad,direct,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is flirting with Dad.,Charlie wishes they were in Dad's place.,incongruent,Charlie,Dad,direct,flirting_envying
+Charlie and Dad are sitting at a table having a conversation. Charlie is envying Dad.,Charlie is playfully signaling romantic interest towards Dad.,incongruent,Charlie,Dad,direct,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is flirting with Donald Trump.,Barack Obama is playfully signaling romantic interest towards Donald Trump.,congruent,Barack Obama,Donald Trump,direct,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is envying Donald Trump.,Barack Obama wishes they were in Donald Trump's place.,congruent,Barack Obama,Donald Trump,direct,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is flirting with Donald Trump.,Barack Obama wishes they were in Donald Trump's place.,incongruent,Barack Obama,Donald Trump,direct,flirting_envying
+Barack Obama and Donald Trump are sitting at a table having a conversation. Barack Obama is envying Donald Trump.,Barack Obama is playfully signaling romantic interest towards Donald Trump.,incongruent,Barack Obama,Donald Trump,direct,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is flirting with Mom.,Barack Obama is playfully signaling romantic interest towards Mom.,congruent,Barack Obama,Mom,direct,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is envying Mom.,Barack Obama wishes they were in Mom's place.,congruent,Barack Obama,Mom,direct,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is flirting with Mom.,Barack Obama wishes they were in Mom's place.,incongruent,Barack Obama,Mom,direct,flirting_envying
+Barack Obama and Mom are sitting at a table having a conversation. Barack Obama is envying Mom.,Barack Obama is playfully signaling romantic interest towards Mom.,incongruent,Barack Obama,Mom,direct,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is flirting with Dad.,Barack Obama is playfully signaling romantic interest towards Dad.,congruent,Barack Obama,Dad,direct,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is envying Dad.,Barack Obama wishes they were in Dad's place.,congruent,Barack Obama,Dad,direct,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is flirting with Dad.,Barack Obama wishes they were in Dad's place.,incongruent,Barack Obama,Dad,direct,flirting_envying
+Barack Obama and Dad are sitting at a table having a conversation. Barack Obama is envying Dad.,Barack Obama is playfully signaling romantic interest towards Dad.,incongruent,Barack Obama,Dad,direct,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is flirting with Mom.,Donald Trump is playfully signaling romantic interest towards Mom.,congruent,Donald Trump,Mom,direct,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is envying Mom.,Donald Trump wishes they were in Mom's place.,congruent,Donald Trump,Mom,direct,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is flirting with Mom.,Donald Trump wishes they were in Mom's place.,incongruent,Donald Trump,Mom,direct,flirting_envying
+Donald Trump and Mom are sitting at a table having a conversation. Donald Trump is envying Mom.,Donald Trump is playfully signaling romantic interest towards Mom.,incongruent,Donald Trump,Mom,direct,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is flirting with Dad.,Donald Trump is playfully signaling romantic interest towards Dad.,congruent,Donald Trump,Dad,direct,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is envying Dad.,Donald Trump wishes they were in Dad's place.,congruent,Donald Trump,Dad,direct,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is flirting with Dad.,Donald Trump wishes they were in Dad's place.,incongruent,Donald Trump,Dad,direct,flirting_envying
+Donald Trump and Dad are sitting at a table having a conversation. Donald Trump is envying Dad.,Donald Trump is playfully signaling romantic interest towards Dad.,incongruent,Donald Trump,Dad,direct,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is flirting with Dad.,Mom is playfully signaling romantic interest towards Dad.,congruent,Mom,Dad,direct,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is envying Dad.,Mom wishes they were in Dad's place.,congruent,Mom,Dad,direct,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is flirting with Dad.,Mom wishes they were in Dad's place.,incongruent,Mom,Dad,direct,flirting_envying
+Mom and Dad are sitting at a table having a conversation. Mom is envying Dad.,Mom is playfully signaling romantic interest towards Dad.,incongruent,Mom,Dad,direct,flirting_envying
