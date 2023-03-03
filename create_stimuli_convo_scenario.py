@@ -2,24 +2,7 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 import itertools
-
-
-def get_2x2(context1, context2, target1, target2, **kwargs):
-    data = []
-    data.append(
-        {"context": context1, "target": target1, "condition": "congruent", **kwargs}
-    )
-    data.append(
-        {"context": context2, "target": target2, "condition": "congruent", **kwargs}
-    )
-    data.append(
-        {"context": context1, "target": target2, "condition": "incongruent", **kwargs}
-    )
-    data.append(
-        {"context": context2, "target": target1, "condition": "incongruent", **kwargs}
-    )
-    return data
-
+from utils import get_2x2
 
 if __name__ == "__main__":
     ### CONVERSATION SCENARIO ###
@@ -57,22 +40,31 @@ if __name__ == "__main__":
     data = []
 
     # the set of concept pairs
-    interaction_pairs = [("respecting", "insulting"), ("teasing", "comforting"), ("flirting with", "envying")]
+    interaction_pairs = [
+        ("respecting", "insulting"),
+        ("teasing", "comforting"),
+        ("flirting with", "envying"),
+    ]
 
     for (interaction1, interaction2) in interaction_pairs:
         print(f"{interaction1}_{interaction2}")
-        for directness, (sub1, sub2) in tqdm(
+        for i, (directness, (sub1, sub2)) in enumerate(
             itertools.product(directnesses, subject_combos)
         ):
             data.extend(
                 get_2x2(
-                    background_template.format(A=sub1, B=sub2, interaction=interaction1),
-                    background_template.format(A=sub1, B=sub2, interaction=interaction2),
+                    background_template.format(
+                        A=sub1, B=sub2, interaction=interaction1
+                    ),
+                    background_template.format(
+                        A=sub1, B=sub2, interaction=interaction2
+                    ),
                     target_templates[interaction1][directness].format(A=sub1, B=sub2),
                     target_templates[interaction2][directness].format(A=sub1, B=sub2),
                     subject1=sub1,
                     subject2=sub2,
                     directness=directness,
+                    item=i,
                     stim_classname=f"{interaction1}_{interaction2}",
                 )
             )

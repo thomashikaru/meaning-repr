@@ -2,38 +2,14 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 import itertools
-
-
-def get_2x2(context1, context2, target1, target2, **kwargs):
-    data = []
-    data.append(
-        {"context": context1, "target": target1, "condition": "congruent", **kwargs}
-    )
-    data.append(
-        {"context": context2, "target": target2, "condition": "congruent", **kwargs}
-    )
-    data.append(
-        {"context": context1, "target": target2, "condition": "incongruent", **kwargs}
-    )
-    data.append(
-        {"context": context2, "target": target1, "condition": "incongruent", **kwargs}
-    )
-    return data
+from utils import get_2x2
 
 
 if __name__ == "__main__":
     ### INSULTS/COMPLIMENTS ###
+
+    # together these form the background/context
     background_template = "{A} is talking about their {third_party} with {B}. {B} knows that {A}'s {third_party} {context}. {B} tells {A} 'You're just like your {third_party}'."
-    target_templates = {
-        "insulting": {
-            "indirect": "{A}'s feelings are hurt.",
-            "direct": "{B} meant this as an insult.",
-        },
-        "complimenting": {
-            "indirect": "{A} smiles at {B}.",
-            "direct": "{B} meant this as a compliment.",
-        },
-    }
     contexts = {
         "insulting": [
             "is abusive and violent",
@@ -50,10 +26,23 @@ if __name__ == "__main__":
             "is highly successful in the business world",
         ],
     }
-
     num_contexts = len(next(iter(contexts.values())))
 
-    interactions = target_templates.keys()
+    # this is the target
+    target_templates = {
+        "insulting": {
+            "indirect": "{A}'s feelings are hurt.",
+            "direct": "{B} meant this as an insult.",
+        },
+        "complimenting": {
+            "indirect": "{A} smiles at {B}.",
+            "direct": "{B} meant this as a compliment.",
+        },
+    }
+
+    interactions = list(target_templates.keys())
+    subjects = ["Alice", "Bob", "Charlie", "Barack Obama", "Donald Trump", "Mom", "Dad"]
+    subject_combos = list(itertools.combinations(subjects, 2))
     namesA = ["Alice", "Andrew", "A"]
     namesB = ["Bob", "Beatrice", "B"]
     directnesses = ["indirect", "direct"]
@@ -61,33 +50,65 @@ if __name__ == "__main__":
 
     data = []
 
-    for a, b, interaction, directness, third_party, context_idx in tqdm(
+    # for a, b, interaction, directness, third_party, context_idx in tqdm(
+    #     itertools.product(
+    #         namesA,
+    #         namesB,
+    #         interactions,
+    #         directnesses,
+    #         third_parties,
+    #         range(num_contexts),
+    #     )
+    # ):
+    #     bg = background_template
+    #     tg = target_templates[interaction][directness]
+    #     con = contexts[interaction][context_idx]
+    #     con = con.format(A=a, B=b)
+    #     bg = bg.format(
+    #         A=a, B=b, interaction=interaction, context=con, third_party=third_party
+    #     )
+    #     tg = tg.format(A=a, B=b)
+    #     data.append(
+    #         {
+    #             "background": bg,
+    #             "target": tg,
+    #             "A": a,
+    #             "B": b,
+    #             "interaction": interaction,
+    #             "directness": directness,
+    #         }
+    #     )
+
+    interaction1, interaction2 = interactions[0], interactions[1]
+    for i, (directness, (sub1, sub2), third_party, context_idx) in enumerate(
         itertools.product(
-            namesA,
-            namesB,
-            interactions,
-            directnesses,
-            third_parties,
-            range(num_contexts),
+            directnesses, subject_combos, third_parties, range(num_contexts)
         )
     ):
-        bg = background_template
-        tg = target_templates[interaction][directness]
-        con = contexts[interaction][context_idx]
-        con = con.format(A=a, B=b)
-        bg = bg.format(
-            A=a, B=b, interaction=interaction, context=con, third_party=third_party
-        )
-        tg = tg.format(A=a, B=b)
-        data.append(
-            {
-                "background": bg,
-                "target": tg,
-                "A": a,
-                "B": b,
-                "interaction": interaction,
-                "directness": directness,
-            }
+        data.extend(
+            get_2x2(
+                background_template.format(
+                    A=sub1,
+                    B=sub2,
+                    interaction=interaction1,
+                    third_party=third_party,
+                    context=contexts[interaction1][context_idx],
+                ),
+                background_template.format(
+                    A=sub1,
+                    B=sub2,
+                    interaction=interaction2,
+                    third_party=third_party,
+                    context=contexts[interaction2][context_idx],
+                ),
+                target_templates[interaction1][directness].format(A=sub1, B=sub2),
+                target_templates[interaction2][directness].format(A=sub1, B=sub2),
+                subject1=sub1,
+                subject2=sub2,
+                directness=directness,
+                item=i,
+                stim_classname=f"{interaction1}_{interaction2}",
+            )
         )
 
     df = pd.DataFrame(data)

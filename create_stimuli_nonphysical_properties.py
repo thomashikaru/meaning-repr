@@ -2,23 +2,7 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 import itertools
-
-
-def get_2x2(context1, context2, target1, target2, **kwargs):
-    data = []
-    data.append(
-        {"context": context1, "target": target1, "condition": "congruent", **kwargs}
-    )
-    data.append(
-        {"context": context2, "target": target2, "condition": "congruent", **kwargs}
-    )
-    data.append(
-        {"context": context1, "target": target2, "condition": "incongruent", **kwargs}
-    )
-    data.append(
-        {"context": context2, "target": target1, "condition": "incongruent", **kwargs}
-    )
-    return data
+from utils import get_2x2
 
 
 if __name__ == "__main__":
@@ -35,7 +19,9 @@ if __name__ == "__main__":
     objects = ["an apple", "an orange", "a pineapple", "a dax", "a blicket"]
     object_combos = itertools.combinations(objects, 2)
 
-    for subject, (obj1, obj2) in tqdm(itertools.product(subjects, object_combos)):
+    for i, (subject, (obj1, obj2)) in enumerate(
+        itertools.product(subjects, object_combos)
+    ):
         data.extend(
             get_2x2(
                 context1.format(A=subject, obj1=obj1, obj2=obj2),
@@ -45,6 +31,7 @@ if __name__ == "__main__":
                 subject1=subject,
                 object1=obj1,
                 object2=obj2,
+                item=i,
                 stim_classname="value_financial",
             )
         )
@@ -64,7 +51,7 @@ if __name__ == "__main__":
     subject_combos = itertools.combinations(subjects, 2)
     object_combos = itertools.combinations(objects, 2)
 
-    for (sub1, sub2), (obj1, obj2) in tqdm(
+    for i, ((sub1, sub2), (obj1, obj2)) in enumerate(
         itertools.product(subject_combos, object_combos)
     ):
         data.extend(
@@ -77,6 +64,7 @@ if __name__ == "__main__":
                 subject2=sub2,
                 object1=obj1,
                 object2=obj2,
+                item=i,
                 stim_classname="value_subjective",
             )
         )
@@ -90,7 +78,7 @@ if __name__ == "__main__":
     subjects = ["Alice", "Barack Obama", "Donald Trump", "Mom", "Dad"]
     objects = ["the car", "the house", "the computer", "the dax", "the blicket"]
 
-    for subject, object in tqdm(itertools.product(subjects, objects)):
+    for i, (subject, object) in enumerate(itertools.product(subjects, objects)):
         data.extend(
             get_2x2(
                 context1.format(A=subject, obj1=object),
@@ -99,6 +87,7 @@ if __name__ == "__main__":
                 target2.format(A=subject, obj1=object),
                 subject1=subject,
                 object1=object,
+                item=i,
                 stim_classname="ownership",
             )
         )
@@ -113,7 +102,9 @@ if __name__ == "__main__":
     objects = ["wooden", "brick", "thatched", "stone", "terracotta"]
     object_combos = itertools.combinations(objects, 2)
 
-    for subject, (obj1, obj2) in tqdm(itertools.product(subjects, object_combos)):
+    for i, (subject, (obj1, obj2)) in enumerate(
+        itertools.product(subjects, object_combos)
+    ):
         data.extend(
             get_2x2(
                 context1.format(A=subject, obj1=obj1, obj2=obj2),
@@ -123,6 +114,7 @@ if __name__ == "__main__":
                 subject1=subject,
                 object1=obj1,
                 object2=obj2,
+                item=i,
                 stim_classname="age_of_house",
             )
         )
