@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 import itertools
-from utils import get_2x2
+from utils import get_2x2, sort_colnames
 
 
 if __name__ == "__main__":
@@ -121,5 +121,6 @@ if __name__ == "__main__":
 
     # save dataframe to CSV
     df = pd.DataFrame(data)
+    df = sort_colnames(df)
     df.to_csv("data/stimuli/nonphysical_properties.csv", index=False)
 
