@@ -113,5 +113,5 @@ if __name__ == "__main__":
 
     df = pd.DataFrame(data)
     df = sort_colnames(df)
-    df.to_csv("data/stimuli/insult_compliment.csv", index=False)
+    df.to_csv("data/social_interactions/insult_compliment.csv", index=False)
 

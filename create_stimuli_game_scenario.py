@@ -99,5 +99,5 @@ if __name__ == "__main__":
 
     df = pd.DataFrame(data)
     df = sort_colnames(df)
-    df.to_csv("data/stimuli/game_scenario.csv", index=False)
+    df.to_csv("data/social_interactions/game_scenario.csv", index=False)
 
