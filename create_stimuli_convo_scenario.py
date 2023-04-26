@@ -30,7 +30,7 @@ if __name__ == "__main__":
         },
         "envying": {
             "indirect": "{A} tries to act nonchalant when {B} talks about their promotion.",
-            "direct": "{A} wishes they were in {B}'s place.",
+            "direct": "{A} wishes to be in {B}'s place.",
         },
     }
 

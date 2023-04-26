@@ -50,35 +50,6 @@ if __name__ == "__main__":
 
     data = []
 
-    # for a, b, interaction, directness, third_party, context_idx in tqdm(
-    #     itertools.product(
-    #         namesA,
-    #         namesB,
-    #         interactions,
-    #         directnesses,
-    #         third_parties,
-    #         range(num_contexts),
-    #     )
-    # ):
-    #     bg = background_template
-    #     tg = target_templates[interaction][directness]
-    #     con = contexts[interaction][context_idx]
-    #     con = con.format(A=a, B=b)
-    #     bg = bg.format(
-    #         A=a, B=b, interaction=interaction, context=con, third_party=third_party
-    #     )
-    #     tg = tg.format(A=a, B=b)
-    #     data.append(
-    #         {
-    #             "background": bg,
-    #             "target": tg,
-    #             "A": a,
-    #             "B": b,
-    #             "interaction": interaction,
-    #             "directness": directness,
-    #         }
-    #     )
-
     interaction1, interaction2 = interactions[0], interactions[1]
     for i, (directness, (sub1, sub2), third_party, context_idx) in enumerate(
         itertools.product(

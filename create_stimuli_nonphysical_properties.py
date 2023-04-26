@@ -98,9 +98,9 @@ if __name__ == "__main__":
             )
         )
 
-    context1 = "{B} asked {A} whether they would prefer to receive {obj1} or {obj2}. {A} said they would prefer {obj1}."
+    context1 = "{B} asked {A} whether they {obj1} or {obj2} would make a better gift. {A} said 'I would prefer {obj1}'."
     target1 = "{A} valued {obj1} more than {obj2}."
-    context2 = "{B} asked {A} whether they would prefer to receive {obj1} or {obj2}. {A} said they would prefer {obj2}."
+    context2 = "{B} asked {A} whether they {obj1} or {obj2} would make a better gift. {A} said 'I would prefer {obj2}'."
     target2 = "{A} valued {obj2} more than {obj1}."
 
     subjects = ["Alice", "Barack Obama", "Donald Trump", "Mom", "Dad"]
